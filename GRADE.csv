@@ -1,0 +1,85 @@
+NAME,GRADE,GROUP,ORDER,OBSOLETE
+IOM Director General,E-1,International Professional,1,0
+IOM Deputy Director General,E-2,International Professional,2,0
+Assistant Secretary-General,ASG,International Professional,3,0
+National Correspondent,COR,National Professional,5,0
+Director Level 1,D-1,International Professional,5,0
+Director Level 2,D-2,International Professional,4,0
+Local Branch Office Professional,DEP,National Professional,6,0
+Local Branch Office Professional,DIR,National Professional,6,0
+Deputy Secretary-General,DSG,International Professional,2,0
+Field Service Level 2,FS2,Field Service,6,0
+Field Service Level 3,FS3,Field Service,5,0
+Field Service Level 4,FS4,Field Service,4,0
+Field Service Level 5,FS5,Field Service,3,0
+Field Service Level 6,FS6,Field Service,2,0
+Field Service Level 7,FS7,Field Service,1,0
+General Service Level 1,G1,General Service,10,0
+General Service Level 10,G10,General Service,1,0
+General Service Level 1A,G1A,General Service,10,0
+General Service Level 1B,G1B,General Service,10,0
+General Service Level 2,G2,General Service,9,0
+General Service Level 3,G3,General Service,8,0
+General Service Level 4,G4,General Service,7,0
+General Service Level 5,G5,General Service,6,0
+General Service Level 6,G6,General Service,5,0
+General Service Level 7,G7,General Service,4,0
+General Service Level 8,G8,General Service,3,0
+General Service Level 9,G9,General Service,2,0
+Public Information Assistant Level 1,IA1,General Service,11,0
+Public Information Assistant Level 2,IA2,General Service,11,0
+Public Information Assistant Level 3,IA3,General Service,11,0
+Interpreters,IN1,General Service,11,0
+Interpreters,IN2,General Service,11,0
+Language Teacher Level 1,LT1,General Service,11,0
+National Professional Officer Level A,NOA,National Professional,5,0
+National Professional Officer Level B,NOB,National Professional,4,0
+National Professional Officer Level C,NOC,National Professional,3,0
+National Professional Officer Level D,NOD,National Professional,2,0
+National Professional Officer Level E,NOE,National Professional,1,0
+International Professional Level 1,P-1,International Professional,10,0
+International Professional Level 2,P-2,International Professional,9,0
+International Professional Level 3,P-3,International Professional,8,0
+International Professional Level 4,P-4,International Professional,7,0
+International Professional Level 5,P-5,International Professional,6,0
+International Professional Level 6,P-6,International Professional,6,0
+International Professional Level 7,P-7,International Professional,6,0
+Undefined Professional Grade,P-0,International Professional,11,0
+Security/Safety Service Level 1,S-1,General Service,11,0
+Security/Safety Service Level 2,S-2,General Service,11,0
+Security/Safety Service Level 3,S-3,General Service,11,0
+Security/Safety Service Level 4,S-4,General Service,11,0
+Security/Safety Service Level 5,S-5,General Service,11,0
+Security/Safety Service Level 6,S-6,General Service,11,0
+Security/Safety Service Level 7,S-7,General Service,11,0
+Secretary-General,SG,International Professional,1,0
+Trades and Crafts Level 1,TC1,General Service,11,0
+Trades and Crafts Level 2,TC2,General Service,11,0
+Trades and Crafts Level 3,TC3,General Service,11,0
+Trades and Crafts Level 4,TC4,General Service,11,0
+Trades and Crafts Level 5,TC5,General Service,11,0
+Trades and Crafts Level 6,TC6,General Service,11,0
+Trades and Crafts Level 7,TC7,General Service,11,0
+Trades and Crafts Level 8,TC8,General Service,11,0
+Translator Level 1,TR1,General Service,11,0
+Translator Level 2,TR2,General Service,11,0
+Translator Level 3,TR3,General Service,11,0
+Translator Level 4,TR4,General Service,11,0
+Translator Level 5,TR5,General Service,11,0
+Revisors,R3,General Service,11,0
+Ungraded Ie All Levels Above D-2,UG,International Professional,3,0
+Under Secretary-General ,USG,International Professional,2,0
+IOM Ungraded,IOM_UG,International Professional,11,0
+ICSC Chair/Vice-Chair,ICSC Chair/Vice-Chair,International Professional,2,0
+Administrator Level 3,ADM-3,General Service,2,0
+Administrator Level 4,ADM-4,General Service,1,0
+Management Level 7,MGM-7,International Professional,5,0
+Management Level 8,MGM-8,International Professional,4,0
+Management Level 9,MGM-9,International Professional,3,0
+Management Level 10,MGM-10,International Professional,2,0
+Management Level 11,MGM-11,International Professional,1,0
+Specialist Level 4,SPEC-4,International Professional,4,0
+Specialist Level 5,SPEC-5,International Professional,3,0
+Specialist Level 6,SPEC-6,International Professional,2,0
+Specialist Level 7,SPEC-7,International Professional,1,0
+Other,Other,General Service,12,0
