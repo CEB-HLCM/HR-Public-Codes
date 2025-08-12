@@ -1,0 +1,14 @@
+NAME,APTYPE
+Fixed-Term,FT
+Temporary,TA
+Permanent,PM
+Continuous,CS
+Short-Term (Add. Entitlements),S35
+Special Short-Term,STA
+Monthly Short-Term Contract,MST
+Less-Than-30-Day Contract ,DAY
+60-or-Fewer-Day Temporary Contract,T60
+When-Actually-Employed,WAE
+IOM short term graded,IOM_STG
+IOM short term ungraded ,IOM_STUG
+IOM regular contract,IOM_RC
