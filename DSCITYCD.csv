@@ -1,4 +1,5 @@
 ﻿DS,CTY,NAME,CLASS,REGION,UPDATED,CTRYNAME,LATITUDE,OBSOLETE,EFFECTIVE,LONGITUDE,COMMONNAME
+DI739,1770,Dinguiraye,,Africa,,Guinea,11.29062,0,,-10.7121,Dinguiraye
 YA127,1350,Yantzaza,,Americas,,Ecuador,-3.83261,0,,-78.76076,Yantzaza
 AA890,5250,Aachen,,Europe,,Germany,50.7767,0,,6.083611111,Aachen
 AA337,2970,Aathbiskot,,Asia,,Nepal,28.8,0,,82.39,Aathbiskot
@@ -1793,7 +1794,7 @@ KA090,3810,Kayar,,Africa,,Senegal,14.9189,0,,-17.11978,Kayar
 KA055,2760,Kayes,E,Africa,,Mali,14.4469,0,,-11.444472,Kayes
 KA913,7077,Kazan,,Europe,,Russia,55.7964,0,,49.10888889,Kazan
 KE857,4320,Kebili,,Africa,,Tunisia,33.7,0,,8.97,Kebili
-KE010,1410,Kebridehar,,Africa,,Ethiopia,6.74,0,,44.278057,Kebri Dehar
+KE010,1410,Kebri Dehar,,Africa,,Ethiopia,6.74,0,,44.278057,Kebri Dehar
 KE070,3300,Kech,,Asia,,Pakistan,32.0077,0,,70.88136,Kech
 KE085,2070,Kediri (East Java),,Asia,,Indonesia,-7.8167,0,,112.01667,Kediri (East Java)
 KE020,2070,Keerom,,Asia,,Indonesia,-3.3,0,,140.6167,Keerom
@@ -3336,8 +3337,8 @@ RA020,3090,Rarotonga,H,Oceania,,New Zealand,-21.2347,0,,-159.775,Rarotonga
 RA010,4490,Ras El Kai,,Asia,,United Arab Emirates,25.7833,0,,55.95,Ras Al Khaimah
 RA073,2100,Rasht,,Asia,,Iran,36.4768,0,,52.40924,Rasht
 RA030,2970,Rasuwa,,Asia,,Nepal,27.0862,0,,86.42758,Rasuwa
-RA070,4200,Ratchabury,,Asia,,Thailand,13.5833,0,,99.53333,Ratchaburi
-RA299,4200,Ratchburi,,Asia,,Thailand,13.529,0,,99.8134625,Ratchburi
+RA070,4200,Ratchabury,,Asia,,Thailand,13.5833,1,,99.53333,Ratchaburi
+RA299,4200,Ratchaburi,,Asia,,Thailand,13.529,0,,99.8134625,Ratchaburi
 RA010,780,Ratnapura,,Asia,,Sri Lanka,6.7135,0,,80.3841,Ratnapura
 RA080,3300,Rawalkot,,Asia,,Pakistan,34.771,0,,73.49692,Rawalkot
 RA090,3300,Rawalpindi,,Asia,,Pakistan,33.6007,0,,73.0679,Rawalpindi
