@@ -1,4 +1,9 @@
 ﻿DS,CTY,NAME,CLASS,REGION,UPDATED,CTRYNAME,LATITUDE,OBSOLETE,EFFECTIVE,LONGITUDE,COMMONNAME
+AR123,4020,Argeen,,Africa,,Sudan,21.99616703,0,,31.28978141,Argeen
+AL171,4020,Al Dabbah,,Africa,,Sudan,18.05023611,0,,30.94951667,Al Dabbah
+PU538,1260,Punta Cana,,Americas,,Dominican Republic,18.58182,0,,-68.40431,Punta Cana
+LE157,930,Leticia,,Americas,,Colombia,-4.217,0,,-69.939,Leticia
+BE173,930,Belen de Bajira,,Americas,,Colombia,7.3725,0,,-76.71472222,Belen de Bajira
 MO664,660,Mondulkiri,,Asia,,Cambodia,12.45,0,,107.2333333,Mondulkiri
 GU266,1350,Guaranda,,Americas,,Ecuador,-1.605556,0,,-79.003056,Guaranda
 DI739,1770,Dinguiraye,,Africa,,Guinea,11.29062,0,,-10.7121,Dinguiraye
