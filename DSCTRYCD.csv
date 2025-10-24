@@ -147,7 +147,8 @@ ZA,ZAF,South Africa,3930,Africa,"-3,392,584",0,"1,842,322",Sub-Saharan Africa
 ES,ESP,Spain,3990,Europe,"404,165",0,"-370,256",Southern Europe
 SD,SDN,Sudan,4020,Africa,"1,555,177",0,"3,253,241",Northern Africa
 SD,SSD,South Sudan,4021,Africa,"12,15",0,"24,45",Sub-Saharan Africa
-SZ,SWZ,Swaziland,4030,Africa,"-2,646,667",0,"31,2",Sub-Saharan Africa
+SZ,SWZ,Eswatini,4030,Africa,"-2,646,667",0,"31,2",Sub-Saharan Africa
+SZ,SWZ,Swaziland,4030,Africa,"-2,646,667",1,"31,2",Sub-Saharan Africa
 SJ,SJM,Svalbard and Jan Mayen Islands,4040,Europe,"7,822,334",0,"1,564,689",Northern Europe
 SE,SWE,Sweden,4110,Europe,"5,933,258",0,"180,649",Northern Europe
 SY,SYR,Syria,4140,Asia,"335,102",0,"3,629,128",Western Asia
