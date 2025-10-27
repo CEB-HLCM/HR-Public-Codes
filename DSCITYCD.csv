@@ -1,4 +1,12 @@
 ﻿DS,CTY,NAME,CLASS,REGION,UPDATED,CTRYNAME,LATITUDE,OBSOLETE,EFFECTIVE,LONGITUDE,COMMONNAME
+LU213,4500,Luxor,,Africa,,Egypt,25.696666,0,,32.644166,Luxor
+BE327,4500,Beheira,,Africa,,Egypt,30.61,0,,30.43,Beheira
+QE531,4500,Qena,,Africa,,Egypt,26.166667,0,,32.716667,Qena
+BE443,4500,Beni Suef,,Africa,,Egypt,29.066667,0,,31.083333,Beni Suef
+MO741,2520,Mokhotlong,,Africa,,Lesotho,-29.288388,0,,29.06825,Mokhotlong
+LA168,600,Lahe,,Asia,,Myanmar,26.333333,0,,95.433333,Lahe
+FA943,4500,Fayyum,,Africa,,Egypt,29.30995,0,,30.8418,Fayyum
+SO232,4500,Sohag,,Africa,,Egypt,26.560555,0,,31.691666,Sohag
 SI937,4030,Siphofaneni,,Africa,,Eswatini,-26.681874,0,,31.682628,Siphofaneni
 PH900,660,Phum Ti Pir,,Asia,,Cambodia,12.127579,0,,105.558945,Phum Ti Pir
 PE900,660,Peal Nheaek Muoy,,Asia,,Cambodia,12.553347,0,,103.897342,Peal Nheaek Muoy
