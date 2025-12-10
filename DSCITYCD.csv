@@ -133,7 +133,7 @@ AL863,3990,Algeciras,Europe,Spain,36.1306,0,,-5.4475,Algeciras
 AL010,120,Algiers,Africa,Algeria,36.7405,0,2021,3.00957,Algiers
 AL010,6690,Ali Sabeih,Africa,Djibouti,11.1552,0,2021,42.703806,Ali Sabieh
 AL040,3990,Alicante,Europe,Spain,38.4015,0,,-0.43623,Alicante
-AL010,2400,Alinjuguru,Africa,Kenya,40.3759,0,,40.375915,Alinjuguru
+AL010,2400,Alinjuguru,Africa,Kenya,-0.0336026,0,,40.4697704,Alinjuguru
 AL050,2040,Allahabad,Asia,India,25.4448,0,,81.84322,Allahabad
 AL055,4319,Almaty,Asia,Kazakhstan,43.2567,0,2019,76.928603,Almaty
 AL216,9400,Al-Mokha,Asia,Yemen,13.3167,0,,43.25,Al-Mokha
@@ -452,7 +452,7 @@ BE012,3920,Belet Weyne,Africa,Somalia,4.7358,0,2021,45.20361,Belet Weyne
 BE842,4530,Belfast,Europe,Great Britain,54.596,0,,-5.914,Belfast
 BE010,4950,Belgrade,Europe,Serbia,44.804,0,2019,20.46513,Belgrade
 BE020,6110,Belize City,Americas,Belize,17.4995,0,2019,-88.19756,Belize City
-BE357,1830,Belladere,Americas,Haiti,18.85,0,,71.78333333,Belladere
+BE357,1830,Belladere,Americas,Haiti,18.85,0,,-71.78333333,Belladere
 BE100,6110,Belmopan,Americas,Belize,17.25,0,2019,-88.766668,Belmopan
 BE050,540,Belo Horizonte,Americas,Brazil,-7.3,0,,-69.58333,Belo Horizonte
 BE020,2670,Beloha,Africa,Madagascar,-25.1667,0,,45.05,Beloha
@@ -2534,7 +2534,7 @@ ME077,1676,Metkovic,Europe,Croatia,43.0542,0,,17.64833,Metkovic
 ME200,1410,Mettu,Africa,Ethiopia,8.3,0,,35.58333,Mettu
 ME010,2460,Meuang,Asia,Laos,20.7167,0,,100.466667,Meuang
 ME035,2070,Meulaboh,Asia,Indonesia,4.35,0,,96.18333,Meulaboh
-ME020,2850,Mexicali,Americas,Mexico,32.663,0,,115.467,Mexicali
+ME020,2850,Mexicali,Americas,Mexico,32.663,0,,-115.467,Mexicali
 ME030,2850,Mexico City,Americas,Mexico,19.4285,0,2019,-99.127658,Mexico City
 ME349,60,Meymaneh,Asia,Afghanistan,35.93,0,,64.77,Meymaneh
 ME962,5750,Meyrin,Europe,Switzerland,46.2334,0,,6.083323,Meyrin
@@ -2578,7 +2578,7 @@ MI071,2100,Mirjaveh,Asia,Iran,29.0148,0,,61.4501,Mirjaveh
 MI070,3300,Mirpur,Asia,Pakistan,25.5263,0,,69.011056,Mirpur
 MI010,4550,Mishamo,Africa,Tanzania,-5.6833,0,,30.68333,Mishamo
 MI010,2130,Missan,Asia,Iraq,31.85,0,,47.01667,Missan
-MI086,720,Mississauga,Americas,Canada,43.585,0,,79.645,Mississauga
+MI086,720,Mississauga,Americas,Canada,43.585,0,,-79.645,Mississauga
 MI010,4020,Misteria,Africa,Sudan,,0,,,Misteria
 MI030,2580,Misurata,Africa,Libya,32.3754,0,,15.09254,Misurata
 MI010,3090,Mitiaro,Oceania,New Zealand,-19.8811,0,,-157.698155,Mitiaro
@@ -4075,7 +4075,7 @@ TU020,3390,Tumbes,Americas,Peru,-3.5672,0,2019,-80.456947,Tumbes
 TU050,4550,Tumbi,Africa,Tanzania,-5.0667,0,,32.73333,Tumbi
 TU040,4550,Tunduru,Africa,Tanzania,-11.0667,0,,37.35,Tunduru
 TU100,4320,Tunis,Africa,Tunisia,36.8001,0,2021,10.184787,Tunis
-TU020,930,Tunja,Americas,Colombia,23.7911,0,,95.680239,Tunja
+TU020,930,Tunja,Americas,Colombia,5.54502,0,,-73.35658,Tunja
 TU040,4021,Turalei,Africa,South Sudan,9.0877,0,,28.431716,Turalei
 TU100,2220,Turin,Europe,Italy,45.0705,0,,7.686816,Turin
 TU150,2400,Turkana,Africa,Kenya,3,0,,35.5,Turkana
