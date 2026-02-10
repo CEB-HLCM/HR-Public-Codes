@@ -1,210 +1,210 @@
-ISO3,NATIONALITY_NAME,COUNTRY_CODE,REGION,UPDATED,LATITUDE,OBSOLETE,LONGITUDE,SUBREGION
-AFG,Afghanistan,60,Asia,,"3,452,813",0,"6,917,233",Southern Asia
-ALB,Albania,90,Europe,,"413,275",0,"1,981,889",Southern Europe
-DZA,Algeria,120,Africa,,"3,673,225",0,"308,746",Northern Africa
-ARG,Argentina,240,Americas,,"-3,461,315",0,"-5,837,723",Latin America and the Caribbean
-ABW,Aruba,250,Americas,,"1,252,398",0,"-7,002,703",Latin America and the Caribbean
-AUS,Australia,270,Oceania,,"-3,528,346",0,"14,912,807",Australia and New Zealand
-AUT,Austria,300,Europe,,"4,820,849",0,"1,637,208",Western Europe
-BRB,Barbados,420,Americas,,"1,310,732",0,"-5,962,021",Latin America and the Caribbean
-PLW,Palau,450,Oceania,,"750,077",0,"1,346,238",Micronesia
-BEL,Belgium,480,Europe,,"5,085,045",0,"434,878",Western Europe
-BTN,Bhutan,490,Asia,,"2,746,609",0,"8,964,191",Southern Asia
-BOL,Bolivia,510,Americas,,"-16,5",0,"-68,15",Latin America and the Caribbean
-BWA,Botswana,520,Africa,,"-2,465,451",0,"2,590,859",Sub-Saharan Africa
-BRA,Brazil,540,Americas,,"-1,577,972",0,"-4,792,972",Latin America and the Caribbean
-BGR,Bulgaria,570,Europe,,"4,269,751",0,"2,332,415",Eastern Europe
-MMR,Myanmar,600,Asia,,"19,745",0,"9,612,972",South-eastern Asia
-BDI,Burundi,610,Africa,,"-33,822",0,"293,644",Sub-Saharan Africa
-KHM,Cambodia,660,Asia,,"1,156,245",0,"10,491,601",South-eastern Asia
-CMR,Republic Of Cameroon,690,Africa,,"386,667",0,"1,151,667",Sub-Saharan Africa
-CAN,Canada,720,Americas,,"4,541,117",0,"-7,569,812",Northern America
-CAF,Central African Republic,750,Africa,,"436,122",0,"1,855,496",Sub-Saharan Africa
-LKA,Sri Lanka,780,Asia,,"688,297",0,"7,990,708",Southern Asia
-TCD,Chad,810,Africa,,"1,210,672",0,"150,444",Sub-Saharan Africa
-CHL,Chile,840,Americas,,"-3,345,694",0,"-7,064,827",Latin America and the Caribbean
-CHN,China,860,Asia,,"399,075",0,"11,639,723",Eastern Asia
-COL,Colombia,930,Americas,,"460,971",0,"-7,408,175",Latin America and the Caribbean
-COD,"Congo, Democratic Rep Of The",990,Africa,,"-432,758",0,"1,531,357",Sub-Saharan Africa
-CRI,Costa Rica,1020,Americas,,"993,333",0,"-8,408,333",Latin America and the Caribbean
-CUB,Cuba,1050,Americas,,"2,313,302",0,"-8,238,304",Latin America and the Caribbean
-ARM,Armenia,1075,Asia,,"4,018,111",0,"4,451,361",Western Asia
-AZE,Azerbaijan,1092,Asia,,"4,037,767",0,"4,989,201",Western Asia
-CYP,Cyprus,1110,Asia,,"3,517,531",0,"333,642",Western Asia
-BEN,Benin,1170,Africa,,"649,646",0,"260,359",Sub-Saharan Africa
-DNK,Denmark,1210,Europe,,"5,567,594",0,"1,256,553",Northern Europe
-DOM,Dominican Republic,1260,Americas,,"1,847,186",0,"-6,989,232",Latin America and the Caribbean
-BLR,Belarus,1324,Europe,,"53,9",0,"2,756,667",Eastern Europe
-ECU,Ecuador,1350,Americas,,"-0,22985",0,"-7,852,495",Latin America and the Caribbean
-BIH,Bosnia And Herzegovina,1367,Europe,,"4,384,864",0,"1,835,644",Southern Europe
-SLV,El Salvador,1380,Americas,,"1,368,935",0,"-8,918,718",Latin America and the Caribbean
-GNQ,Equatorial Guinea,1390,Africa,,"375,578",0,"878,166",Sub-Saharan Africa
-ETH,Ethiopia,1410,Africa,,"902,497",0,"3,874,689",Sub-Saharan Africa
-FJI,Fiji,1430,Oceania,,"-1,814,161",0,"17,844,149",Melanesia
-FIN,Finland,1440,Europe,,"6,016,952",0,"2,493,545",Northern Europe
-FRA,France,1470,Europe,,"4,885,341",0,"23,488",Western Europe
-GAB,Gabon,1530,Africa,,"0,39241",0,"945,356",Sub-Saharan Africa
-GMB,Gambia,1560,Africa,,"1,345,274",0,"-1,657,803",Sub-Saharan Africa
-GHA,Ghana,1620,Africa,,"555,602",0,"-0,1969",Sub-Saharan Africa
-GRC,Greece,1650,Europe,,"3,797,945",0,"2,371,622",Southern Europe
-HRV,Croatia,1676,Europe,,"4,581,444",0,"1,597,798",Southern Europe
-GTM,Guatemala,1680,Americas,,"1,464,072",0,"-9,051,327",Latin America and the Caribbean
-CZE,Czech Republic,1692,Europe,,"5,008,804",0,"1,442,076",Eastern Europe
-GIN,Guinea,1770,Africa,,"953,795",0,"-1,367,729",Sub-Saharan Africa
-GUY,Guyana,1800,Americas,,"680,448",0,"-5,815,527",Latin America and the Caribbean
-HTI,Haiti,1830,Americas,,"1,854,349",0,"-7,233,881",Latin America and the Caribbean
-HND,Honduras,1860,Americas,,"140,818",0,"-8,720,681",Latin America and the Caribbean
-HUN,Hungary,1950,Europe,,"4,749,801",0,"1,903,991",Eastern Europe
-ISL,Iceland,1980,Europe,,"6,413,548",0,"-2,189,541",Northern Europe
-IND,India,2040,Asia,,"2,865,195",0,"7,723,149",Southern Asia
-IDN,Indonesia,2070,Asia,,"-621,462",0,"10,684,513",South-eastern Asia
-TLS,Timor-Leste,2080,Asia,,"-855,861",0,"1,255,736",South-eastern Asia
-IRN,Iran,2100,Asia,,"3,569,439",0,"5,142,151",Southern Asia
-IRQ,Iraq,2130,Asia,,"3,334,058",0,"4,440,088",Western Asia
-IRL,Ireland,2160,Europe,,"5,333,306",0,"-624,889",Northern Europe
-ISR,Israel,2190,Asia,,"3,176,904",0,"3,521,633",Western Asia
-ITA,Italy,2220,Europe,,"4,189,193",0,"1,251,133",Southern Europe
-CIV,Cote D'Ivoire,2250,Africa,,"682,055",0,"-527,674",Sub-Saharan Africa
-JAM,Jamaica,2280,Americas,,"1,799,702",0,"-7,679,358",Latin America and the Caribbean
-JPN,Japan,2310,Asia,,"356,895",0,"13,969,171",Eastern Asia
-JOR,Jordan,2340,Asia,,"3,195,522",0,"3,594,503",Western Asia
-KEN,Kenya,2400,Africa,,"-128,333",0,"3,681,667",Sub-Saharan Africa
-KWT,Kuwait,2430,Asia,,"2,936,972",0,"4,797,833",Western Asia
-LAO,"Lao People's Dem, Rep",2460,Asia,,"1,796,667",0,"102,6",South-eastern Asia
-LBN,Lebanon,2490,Asia,,"3,389,332",0,"3,550,157",Western Asia
-LSO,Lesotho,2520,Africa,,"-2,931,667",0,"2,748,333",Sub-Saharan Africa
-LBR,Liberia,2550,Africa,,"630,054",0,"-107,969",Sub-Saharan Africa
-EST,Estonia,2577,Europe,,"5,943,696",0,"2,475,353",Northern Europe
-LBY,Libyan Arab Jamahiriya,2580,Africa,,"3,287,519",0,"1,318,746",Northern Africa
-LUX,Luxembourg,2640,Europe,,"4,961,167",0,"6,13",Western Europe
-MDG,Madagascar,2670,Africa,,"-1,891,368",0,"4,753,613",Sub-Saharan Africa
-MWI,Malawi,2690,Africa,,"-1,396,692",0,"3,378,725",Sub-Saharan Africa
-MYS,Malaysia,2700,Asia,,"31,412",0,"10,168,653",South-eastern Asia
-ERI,Eritrea,2737,Africa,,"1,533,805",0,"3,893,184",Sub-Saharan Africa
-MDV,Maldives,2740,Asia,,"417,521",0,"7,350,916",Southern Asia
-MLI,Mali,2760,Africa,,"12,65",0,-8,Sub-Saharan Africa
-MLT,Malta,2790,Europe,,"3,589,972",0,"1,451,472",Southern Europe
-MRT,Mauritania,2820,Africa,,"1,808,581",0,"-159,785",Sub-Saharan Africa
-MUS,Mauritius,2830,Africa,,"-2,016,194",0,"5,749,889",Sub-Saharan Africa
-MEX,Mexico,2850,Americas,,"1,942,847",0,"-9,912,766",Latin America and the Caribbean
-MNG,Mongolia,2880,Asia,,"4,790,771",0,"10,688,324",Eastern Asia
-MAR,Morocco,2910,Africa,,"3,401,325",0,"-683,255",Northern Africa
-NPL,Nepal,2970,Asia,,"2,770,169",0,"853,206",Southern Asia
-NLD,Netherlands,3000,Europe,,"5,237,403",0,"488,969",Western Europe
-FSM,"Micronesia, Federated States Of",3053,Oceania,,"692,477",0,"15,816,109",Micronesia
-MKD,North Macedonia,3075,Europe,,"4,199,646",0,"2,143,141",Southern Europe
-NZL,New Zealand,3090,Oceania,,"-4,128,664",0,"17,477,557",Australia and New Zealand
-NIC,Nicaragua,3120,Americas,,"1,213,282",0,"-862,504",Latin America and the Caribbean
-GEO,Georgia,3167,Asia,,"4,169,411",0,"4,483,368",Western Asia
-NER,Niger,3180,Africa,,"1,351,366",0,"21,098",Sub-Saharan Africa
-NGA,Nigeria,3210,Africa,,"905,785",0,"749,508",Sub-Saharan Africa
-NOR,Norway,3240,Europe,,"5,991,273",0,"1,074,609",Northern Europe
-PAK,Pakistan,3300,Asia,,"3,372,148",0,"7,304,329",Southern Asia
-PAN,Panama,3330,Americas,,"89,936",0,"-7,951,973",Latin America and the Caribbean
-PRY,Paraguay,3360,Americas,,"-2,530,066",0,"-5,763,591",Latin America and the Caribbean
-COG,"Congo, Republic Of The",3380,Africa,,"-426,613",0,"1,528,318",Sub-Saharan Africa
-PER,Peru,3390,Americas,,"-1,204,318",0,"-7,702,824",Latin America and the Caribbean
-PHL,Philippines,3420,Asia,,"146,042",0,"1,209,822",South-eastern Asia
-POL,Poland,3450,Europe,,"5,222,977",0,"2,101,178",Eastern Europe
-PRT,Portugal,3480,Europe,,"3,871,667",0,"-913,333",Southern Europe
-ROU,Romania,3660,Europe,,"4,443,225",0,"2,610,626",Eastern Europe
-RWA,Rwanda,3750,Africa,,"-194,995",0,"3,005,885",Sub-Saharan Africa
-SAU,Saudi Arabia,3780,Asia,,"2,468,773",0,"4,672,185",Western Asia
-SEN,Senegal,3810,Africa,,"146,937",0,"-1,744,406",Sub-Saharan Africa
-SLE,Sierra Leone,3900,Africa,,"848,714",0,"-132,356",Sub-Saharan Africa
-SGP,Singapore,3910,Asia,,"128,967",0,"10,385,007",South-eastern Asia
-SOM,Somalia,3920,Africa,,"203,711",0,"4,534,375",Sub-Saharan Africa
-ZAF,South Africa,3930,Africa,,"-3,392,584",0,"1,842,322",Sub-Saharan Africa
-ESP,Spain,3990,Europe,,"404,165",0,"-370,256",Southern Europe
-SDN,Sudan,4020,Africa,,"1,555,177",0,"3,253,241",Northern Africa
-SSD,South Sudan,4021,Africa,,"12,15",0,"24,45",Sub-Saharan Africa
-SWZ,Swaziland,4030,Africa,,"-2,646,667",0,"31,2",Sub-Saharan Africa
-SWE,Sweden,4110,Europe,,"5,933,258",0,"180,649",Northern Europe
-SYR,Syrian Arab Republic,4140,Asia,,"335,102",0,"3,629,128",Western Asia
-THA,Thailand,4200,Asia,,"1,375,398",0,"10,050,144",South-eastern Asia
-TGO,Togo,4230,Africa,,"612,874",0,"122,154",Sub-Saharan Africa
-TTO,Trinidad And Tobago,4290,Americas,,"1,066,668",0,"-6,151,889",Latin America and the Caribbean
-KAZ,Kazakhstan,4319,Asia,,"511,801",0,"7,144,598",Central Asia
-TUN,Tunisia,4320,Africa,,"3,681,897",0,"1,016,579",Northern Africa
-PSE,"Palestinian Territory, Occupied",4321,Asia,2017,"3,178,336",0,"3,523,388",Western Asia
-TUR,TÃ¼rkiye,4350,Asia,,"3,991,987",0,"3,285,427",Western Asia
-UGA,Uganda,4380,Africa,,"0,31628",0,"3,258,219",Sub-Saharan Africa
-KGZ,Kyrgyzstan,4397,Asia,,"42,87",0,"74,59",Central Asia
-UKR,Ukraine,4410,Europe,,"5,045,466",0,"305,238",Eastern Europe
-,Ussr,4470,Europe,,,-1,,Eastern Europe
-ARE,United Arab Emirates,4490,Asia,,"2,446,667",0,"5,436,667",Western Asia
-EGY,Egypt,4500,Africa,,"3,006,263",0,"3,124,967",Northern Africa
-GBR,United Kingdom,4530,Europe,,"5,150,853",0,"-0,12574",Northern Europe
-TZA,"Tanzania, United Republic Of",4550,Africa,,"-617,221",0,"3,573,947",Sub-Saharan Africa
-USA,United States Of America,4560,Americas,,"3,889,511",0,"-7,703,637",Northern America
-BFA,Burkina Faso,4590,Africa,,"1,236,566",0,"-153,388",Sub-Saharan Africa
-LVA,Latvia,4617,Europe,,"56,946",0,"2,410,589",Northern Europe
-URY,Uruguay,4620,Americas,,"-3,490,328",0,"-5,618,816",Latin America and the Caribbean
-LTU,Lithuania,4637,Europe,,"5,468,916",0,"252,798",Northern Europe
-VEN,Venezuela,4710,Americas,,"1,048,801",0,"-6,687,919",Latin America and the Caribbean
-SRB,Serbia,4950,Europe,,"4,480,401",0,"2,046,513",Southern Europe
-ZMB,Zambia,4980,Africa,,"-1,540,669",0,"2,828,713",Sub-Saharan Africa
-AND,Andorra,5050,Europe,,"4,250,779",0,"152,109",Southern Europe
-BGD,Bangladesh,5070,Asia,,"237,104",0,"9,040,744",Southern Asia
-PRK,"Korea, Dem, People's Rep, Of",5150,Asia,,"3,903,385",0,"12,575,432",Eastern Asia
-DEU,Germany,5250,Europe,,"5,252,437",0,"1,341,053",Western Europe
-MDA,Republic Of Moldova,5264,Europe,,"4,700,556",0,"288,575",Eastern Europe
-MHL,Marshall Islands,5277,Oceania,,"708,971",0,"17,138,027",Micronesia
-VAT,Holy See,5350,Europe,,"41,9",0,"124,833,333",Southern Europe
-LIE,Liechtenstein,5550,Europe,,"4,714,151",0,"952,154",Western Europe
-MCO,Monaco,5650,Europe,,"4,373,333",0,"741,667",Western Europe
-KOR,"Korea, Republic Of",5670,Asia,,"37,566",0,"1,269,784",Eastern Asia
-VNM,Viet Nam,5690,Asia,,"210,245",0,"10,584,117",South-eastern Asia
-SMR,San Marino,5700,Europe,,"4,393,667",0,"1,244,639",Southern Europe
-CHE,Switzerland,5750,Europe,,"4,694,809",0,"744,744",Western Europe
-MNE,Montenegro,5752,Europe,,"4,244,111",0,"1,926,361",Southern Europe
-WSM,Samoa,5900,Oceania,,"-1,383,333",0,"-17,176,666",Polynesia
-ATG,Antigua And Barbuda,6010,Americas,,"1,712,096",0,"-6,184,329",Latin America and the Caribbean
-BRN,Brunei Darussalam,6020,Asia,,"494,029",0,"11,494,806",South-eastern Asia
-BHS,Bahamas,6030,Americas,,"2,505,823",0,"-7,734,306",Latin America and the Caribbean
-BHR,Bahrain,6040,Asia,,"2,622,787",0,"5,058,565",Western Asia
-DMA,Dominica,6100,Americas,,"1,530,174",0,"-6,138,808",Latin America and the Caribbean
-BLZ,Belize,6110,Americas,,"17,25",0,"-8,876,667",Latin America and the Caribbean
-HKG,Hong Kong,6120,Asia,,,-1,,Eastern Asia
-NIU,Niue,6144,Oceania,,"-1,905,451",0,"-16,991,768",Polynesia
-GRD,Grenada,6160,Americas,,"1,205,288",0,"-6,175,226",Latin America and the Caribbean
-KIR,Kiribati,6170,Oceania,,"13,278",0,"17,297,696",Micronesia
-TUV,Tuvalu,6180,Oceania,,"-852,425",0,"17,919,417",Polynesia
-QAT,Qatar,6240,Asia,,"2,528,545",0,"5,153,096",Western Asia
-ZWE,Zimbabwe,6260,Africa,,"-1,782,772",0,"3,105,337",Sub-Saharan Africa
-KNA,Saint Kitts And Nevis,6270,Americas,,"172,955",0,"-6,272,499",Latin America and the Caribbean
-SYC,Seychelles,6280,Africa,,"-462,001",0,"5,545,501",Sub-Saharan Africa
-LCA,Saint Lucia,6290,Americas,,"139,957",0,"-6,100,614",Latin America and the Caribbean
-VCT,Saint Vincent & The Grenadines,6300,Americas,,"1,315,527",0,"-6,122,742",Latin America and the Caribbean
-SLB,Solomon Islands,6310,Oceania,,"-943,333",0,"159,95",Melanesia
-TON,Tonga,6340,Oceania,,"-2,113,938",0,"-1,752,018",Polynesia
-OMN,Oman,6350,Asia,,"2,358,413",0,"5,840,778",Western Asia
-PYF,French Polynesia,6449,Oceania,,"-1,753,733",-1,"-1,495,665",Polynesia
-NRU,Nauru,6480,Oceania,,"-0,55085",0,"1,669,252",Micronesia
-PNG,Papua New Guinea,6490,Oceania,,"-944,314",0,"14,717,972",Melanesia
-VUT,Vanuatu,6550,Oceania,,"-1,773,648",0,"16,831,366",Melanesia
-COM,Comoros,6620,Africa,,"-1,170,216",0,"4,325,506",Sub-Saharan Africa
-DJI,Djibouti,6690,Africa,,"1,158,901",0,"4,314,503",Sub-Saharan Africa
-SUR,Suriname,6780,Americas,,"586,638",0,"-5,516,682",Latin America and the Caribbean
-COK,Cook Islands,6790,Oceania,,"-212,075",0,"-15,977,545",Polynesia
-AGO,Angola,6810,Africa,,"-883,682",0,"1,323,432",Sub-Saharan Africa
-CPV,Cape Verde,6820,Africa,,"1,493,152",0,"-2,351,254",Sub-Saharan Africa
-STP,Sao Tome And Principe,6830,Africa,,"0,33654",0,"672,732",Sub-Saharan Africa
-GNB,Guinea-Bissau,6850,Africa,,"1,186,357",0,"-1,559,767",Sub-Saharan Africa
-MOZ,Mozambique,6890,Africa,,"-2,596,553",0,"3,258,322",Sub-Saharan Africa
-ESH,Sahrawi,6910,Africa,,"261,579",0,"-1,055,889",Northern Africa
-NAM,Namibia,6980,Africa,,"-2,255,941",0,"1,708,323",Sub-Saharan Africa
-MMR,Burma,7053,Asia,,,-1,,South-eastern Asia
-RUS,Russian Federation,7077,Europe,,"5,575,222",0,"3,761,556",Eastern Europe
-SVK,Slovakia,7340,Europe,,"4,814,816",0,"1,710,674",Eastern Europe
-SVN,Slovenia,7346,Europe,,"4,605,108",0,"1,450,513",Southern Europe
-TJK,Tajikistan,7614,Asia,,"3,853,575",0,"6,877,905",Central Asia
-TWN,Taiwan,7638,Asia,,"2,504,776",1,"12,153,185",Eastern Asia
-TKM,Turkmenistan,7677,Asia,,"37,95",0,"5,838,333",Central Asia
-SHN,"St, Helene",7732,Africa,,"-1,593,872",-1,"-571,675",Sub-Saharan Africa
-TKL,Tokelau,7742,Oceania,,"-854,212",0,"-17,251,591",Polynesia
-UZB,Uzbekistan,7991,Asia,,"4,126,465",0,"6,921,627",Central Asia
-TLS,Timor Leste,8100,Asia,,"-855,861",1,"12,557,361",South-eastern Asia
-XKX,Kosovo (UN administered province of Serbia),8300,Europe,,"4,480,401",0,"2,046,513",Southern Europe
-YEM,"Yemen, Republic Of",9400,Asia,,"1,535,472",0,"4,420,667",Western Asia
-,Unclear,9999,,,,0,,
+ISO3,NATIONALITY_NAME,COUNTRY_CODE,REGION,SUBREGION,LATITUDE,LONGITUDE,UPDATED,OBSOLETE
+AFG,Afghanistan,60,Asia,Southern Asia,"3,452,813","6,917,233",,0
+ALB,Albania,90,Europe,Southern Europe,"413,275","1,981,889",,0
+DZA,Algeria,120,Africa,Northern Africa,"3,673,225","308,746",,0
+AND,Andorra,5050,Europe,Southern Europe,"4,250,779","152,109",,0
+AGO,Angola,6810,Africa,Sub-Saharan Africa,"-883,682","1,323,432",,0
+ATG,Antigua and Barbuda,6010,Americas,Latin America and the Caribbean,"1,712,096","-6,184,329",,0
+ARG,Argentina,240,Americas,Latin America and the Caribbean,"-3,461,315","-5,837,723",,0
+ARM,Armenia,1075,Asia,Western Asia,"4,018,111","4,451,361",,0
+ABW,Aruba,250,Americas,Latin America and the Caribbean,"1,252,398","-7,002,703",,0
+AUS,Australia,270,Oceania,Australia and New Zealand,"-3,528,346","14,912,807",,0
+AUT,Austria,300,Europe,Western Europe,"4,820,849","1,637,208",,0
+AZE,Azerbaijan,1092,Asia,Western Asia,"4,037,767","4,989,201",,0
+BHS,Bahamas,6030,Americas,Latin America and the Caribbean,"2,505,823","-7,734,306",,0
+BHR,Bahrain,6040,Asia,Western Asia,"2,622,787","5,058,565",,0
+BGD,Bangladesh,5070,Asia,Southern Asia,"237,104","9,040,744",,0
+BRB,Barbados,420,Americas,Latin America and the Caribbean,"1,310,732","-5,962,021",,0
+BLR,Belarus,1324,Europe,Eastern Europe,"53,9","2,756,667",,0
+BEL,Belgium,480,Europe,Western Europe,"5,085,045","434,878",,0
+BLZ,Belize,6110,Americas,Latin America and the Caribbean,"17,25","-8,876,667",,0
+BEN,Benin,1170,Africa,Sub-Saharan Africa,"649,646","260,359",,0
+BTN,Bhutan,490,Asia,Southern Asia,"2,746,609","8,964,191",,0
+BOL,Bolivia,510,Americas,Latin America and the Caribbean,"-16,5","-68,15",,0
+BIH,Bosnia And Herzegovina,1367,Europe,Southern Europe,"4,384,864","1,835,644",,0
+BWA,Botswana,520,Africa,Sub-Saharan Africa,"-2,465,451","2,590,859",,0
+BRA,Brazil,540,Americas,Latin America and the Caribbean,"-1,577,972","-4,792,972",,0
+BRN,Brunei Darussalam,6020,Asia,South-eastern Asia,"494,029","11,494,806",,0
+BGR,Bulgaria,570,Europe,Eastern Europe,"4,269,751","2,332,415",,0
+BFA,Burkina Faso,4590,Africa,Sub-Saharan Africa,"1,236,566","-153,388",,0
+MMR,Burma,7053,Asia,South-eastern Asia,,,,-1
+BDI,Burundi,610,Africa,Sub-Saharan Africa,"-33,822","293,644",,0
+KHM,Cambodia,660,Asia,South-eastern Asia,"1,156,245","10,491,601",,0
+CMR,Cameroon,690,Africa,Sub-Saharan Africa,"386,667","1,151,667",,0
+CAN,Canada,720,Americas,Northern America,"4,541,117","-7,569,812",,0
+CPV,Cape Verde,6820,Africa,Sub-Saharan Africa,"1,493,152","-2,351,254",,0
+CAF,Central African Republic,750,Africa,Sub-Saharan Africa,"436,122","1,855,496",,0
+TCD,Chad,810,Africa,Sub-Saharan Africa,"1,210,672","150,444",,0
+CHL,Chile,840,Americas,Latin America and the Caribbean,"-3,345,694","-7,064,827",,0
+CHN,China,860,Asia,Eastern Asia,"399,075","11,639,723",,0
+COL,Colombia,930,Americas,Latin America and the Caribbean,"460,971","-7,408,175",,0
+COM,Comoros,6620,Africa,Sub-Saharan Africa,"-1,170,216","4,325,506",,0
+COK,Cook Islands,6790,Oceania,Polynesia,"-212,075","-15,977,545",,0
+CRI,Costa Rica,1020,Americas,Latin America and the Caribbean,"993,333","-8,408,333",,0
+CIV,Côte d'Ivoire,2250,Africa,Sub-Saharan Africa,"682,055","-527,674",,0
+HRV,Croatia,1676,Europe,Southern Europe,"4,581,444","1,597,798",,0
+CUB,Cuba,1050,Americas,Latin America and the Caribbean,"2,313,302","-8,238,304",,0
+CYP,Cyprus,1110,Asia,Western Asia,"3,517,531","333,642",,0
+CZE,Czech Republic,1692,Europe,Eastern Europe,"5,008,804","1,442,076",,0
+PRK,Democratic People's Republic of Korea,5150,Asia,Eastern Asia,"3,903,385","12,575,432",,0
+COD,Democratic Republic of the Congo,990,Africa,Sub-Saharan Africa,"-432,758","1,531,357",,0
+DNK,Denmark,1210,Europe,Northern Europe,"5,567,594","1,256,553",,0
+DJI,Djibouti,6690,Africa,Sub-Saharan Africa,"1,158,901","4,314,503",,0
+DMA,Dominica,6100,Americas,Latin America and the Caribbean,"1,530,174","-6,138,808",,0
+DOM,Dominican Republic,1260,Americas,Latin America and the Caribbean,"1,847,186","-6,989,232",,0
+ECU,Ecuador,1350,Americas,Latin America and the Caribbean,"-0,22985","-7,852,495",,0
+EGY,Egypt,4500,Africa,Northern Africa,"3,006,263","3,124,967",,0
+SLV,El Salvador,1380,Americas,Latin America and the Caribbean,"1,368,935","-8,918,718",,0
+GNQ,Equatorial Guinea,1390,Africa,Sub-Saharan Africa,"375,578","878,166",,0
+ERI,Eritrea,2737,Africa,Sub-Saharan Africa,"1,533,805","3,893,184",,0
+EST,Estonia,2577,Europe,Northern Europe,"5,943,696","2,475,353",,0
+SWZ,Eswatini,4030,Africa,Sub-Saharan Africa,"-2,646,667","31,2",,0
+ETH,Ethiopia,1410,Africa,Sub-Saharan Africa,"902,497","3,874,689",,0
+FJI,Fiji,1430,Oceania,Melanesia,"-1,814,161","17,844,149",,0
+FIN,Finland,1440,Europe,Northern Europe,"6,016,952","2,493,545",,0
+FRA,France,1470,Europe,Western Europe,"4,885,341","23,488",,0
+PYF,French Polynesia,6449,Oceania,Polynesia,"-1,753,733","-1,495,665",,-1
+GAB,Gabon,1530,Africa,Sub-Saharan Africa,"0,39241","945,356",,0
+GMB,Gambia,1560,Africa,Sub-Saharan Africa,"1,345,274","-1,657,803",,0
+GEO,Georgia,3167,Asia,Western Asia,"4,169,411","4,483,368",,0
+DEU,Germany,5250,Europe,Western Europe,"5,252,437","1,341,053",,0
+GHA,Ghana,1620,Africa,Sub-Saharan Africa,"555,602","-0,1969",,0
+GRC,Greece,1650,Europe,Southern Europe,"3,797,945","2,371,622",,0
+GRD,Grenada,6160,Americas,Latin America and the Caribbean,"1,205,288","-6,175,226",,0
+GTM,Guatemala,1680,Americas,Latin America and the Caribbean,"1,464,072","-9,051,327",,0
+GIN,Guinea,1770,Africa,Sub-Saharan Africa,"953,795","-1,367,729",,0
+GNB,Guinea-Bissau,6850,Africa,Sub-Saharan Africa,"1,186,357","-1,559,767",,0
+GUY,Guyana,1800,Americas,Latin America and the Caribbean,"680,448","-5,815,527",,0
+HTI,Haiti,1830,Americas,Latin America and the Caribbean,"1,854,349","-7,233,881",,0
+VAT,Holy See,5350,Europe,Southern Europe,"41,9","124,833,333",,0
+HND,Honduras,1860,Americas,Latin America and the Caribbean,"140,818","-8,720,681",,0
+HKG,Hong Kong,6120,Asia,Eastern Asia,,,,-1
+HUN,Hungary,1950,Europe,Eastern Europe,"4,749,801","1,903,991",,0
+ISL,Iceland,1980,Europe,Northern Europe,"6,413,548","-2,189,541",,0
+IND,India,2040,Asia,Southern Asia,"2,865,195","7,723,149",,0
+IDN,Indonesia,2070,Asia,South-eastern Asia,"-621,462","10,684,513",,0
+IRN,Iran,2100,Asia,Southern Asia,"3,569,439","5,142,151",,0
+IRQ,Iraq,2130,Asia,Western Asia,"3,334,058","4,440,088",,0
+IRL,Ireland,2160,Europe,Northern Europe,"5,333,306","-624,889",,0
+ISR,Israel,2190,Asia,Western Asia,"3,176,904","3,521,633",,0
+ITA,Italy,2220,Europe,Southern Europe,"4,189,193","1,251,133",,0
+JAM,Jamaica,2280,Americas,Latin America and the Caribbean,"1,799,702","-7,679,358",,0
+JPN,Japan,2310,Asia,Eastern Asia,"356,895","13,969,171",,0
+JOR,Jordan,2340,Asia,Western Asia,"3,195,522","3,594,503",,0
+KAZ,Kazakhstan,4319,Asia,Central Asia,"511,801","7,144,598",,0
+KEN,Kenya,2400,Africa,Sub-Saharan Africa,"-128,333","3,681,667",,0
+KIR,Kiribati,6170,Oceania,Micronesia,"13,278","17,297,696",,0
+XKX,Kosovo (UN administered province of Serbia),8300,Europe,Southern Europe,"4,480,401","2,046,513",,0
+KWT,Kuwait,2430,Asia,Western Asia,"2,936,972","4,797,833",,0
+KGZ,Kyrgyzstan,4397,Asia,Central Asia,"42,87","74,59",,0
+LAO,Lao People's Democratic Republic,2460,Asia,South-eastern Asia,"1,796,667","102,6",,0
+LVA,Latvia,4617,Europe,Northern Europe,"56,946","2,410,589",,0
+LBN,Lebanon,2490,Asia,Western Asia,"3,389,332","3,550,157",,0
+LSO,Lesotho,2520,Africa,Sub-Saharan Africa,"-2,931,667","2,748,333",,0
+LBR,Liberia,2550,Africa,Sub-Saharan Africa,"630,054","-107,969",,0
+LBY,Libya,2580,Africa,Northern Africa,"3,287,519","1,318,746",,0
+LIE,Liechtenstein,5550,Europe,Western Europe,"4,714,151","952,154",,0
+LTU,Lithuania,4637,Europe,Northern Europe,"5,468,916","252,798",,0
+LUX,Luxembourg,2640,Europe,Western Europe,"4,961,167","6,13",,0
+MDG,Madagascar,2670,Africa,Sub-Saharan Africa,"-1,891,368","4,753,613",,0
+MWI,Malawi,2690,Africa,Sub-Saharan Africa,"-1,396,692","3,378,725",,0
+MYS,Malaysia,2700,Asia,South-eastern Asia,"31,412","10,168,653",,0
+MDV,Maldives,2740,Asia,Southern Asia,"417,521","7,350,916",,0
+MLI,Mali,2760,Africa,Sub-Saharan Africa,"12,65",-8,,0
+MLT,Malta,2790,Europe,Southern Europe,"3,589,972","1,451,472",,0
+MHL,Marshall Islands,5277,Oceania,Micronesia,"708,971","17,138,027",,0
+MRT,Mauritania,2820,Africa,Sub-Saharan Africa,"1,808,581","-159,785",,0
+MUS,Mauritius,2830,Africa,Sub-Saharan Africa,"-2,016,194","5,749,889",,0
+MEX,Mexico,2850,Americas,Latin America and the Caribbean,"1,942,847","-9,912,766",,0
+FSM,"Micronesia, Federated States Of",3053,Oceania,Micronesia,"692,477","15,816,109",,0
+MCO,Monaco,5650,Europe,Western Europe,"4,373,333","741,667",,0
+MNG,Mongolia,2880,Asia,Eastern Asia,"4,790,771","10,688,324",,0
+MNE,Montenegro,5752,Europe,Southern Europe,"4,244,111","1,926,361",,0
+MAR,Morocco,2910,Africa,Northern Africa,"3,401,325","-683,255",,0
+MOZ,Mozambique,6890,Africa,Sub-Saharan Africa,"-2,596,553","3,258,322",,0
+MMR,Myanmar,600,Asia,South-eastern Asia,"19,745","9,612,972",,0
+NAM,Namibia,6980,Africa,Sub-Saharan Africa,"-2,255,941","1,708,323",,0
+NRU,Nauru,6480,Oceania,Micronesia,"-0,55085","1,669,252",,0
+NPL,Nepal,2970,Asia,Southern Asia,"2,770,169","853,206",,0
+NLD,Netherlands,3000,Europe,Western Europe,"5,237,403","488,969",,0
+NZL,New Zealand,3090,Oceania,Australia and New Zealand,"-4,128,664","17,477,557",,0
+NIC,Nicaragua,3120,Americas,Latin America and the Caribbean,"1,213,282","-862,504",,0
+NER,Niger,3180,Africa,Sub-Saharan Africa,"1,351,366","21,098",,0
+NGA,Nigeria,3210,Africa,Sub-Saharan Africa,"905,785","749,508",,0
+NIU,Niue,6144,Oceania,Polynesia,"-1,905,451","-16,991,768",,0
+MKD,North Macedonia,3075,Europe,Southern Europe,"4,199,646","2,143,141",,0
+NOR,Norway,3240,Europe,Northern Europe,"5,991,273","1,074,609",,0
+OMN,Oman,6350,Asia,Western Asia,"2,358,413","5,840,778",,0
+PAK,Pakistan,3300,Asia,Southern Asia,"3,372,148","7,304,329",,0
+PLW,Palau,450,Oceania,Micronesia,"750,077","1,346,238",,0
+PAN,Panama,3330,Americas,Latin America and the Caribbean,"89,936","-7,951,973",,0
+PNG,Papua New Guinea,6490,Oceania,Melanesia,"-944,314","14,717,972",,0
+PRY,Paraguay,3360,Americas,Latin America and the Caribbean,"-2,530,066","-5,763,591",,0
+PER,Peru,3390,Americas,Latin America and the Caribbean,"-1,204,318","-7,702,824",,0
+PHL,Philippines,3420,Asia,South-eastern Asia,"146,042","1,209,822",,0
+POL,Poland,3450,Europe,Eastern Europe,"5,222,977","2,101,178",,0
+PRT,Portugal,3480,Europe,Southern Europe,"3,871,667","-913,333",,0
+QAT,Qatar,6240,Asia,Western Asia,"2,528,545","5,153,096",,0
+KOR,Republic of Korea,5670,Asia,Eastern Asia,"37,566","1,269,784",,0
+MDA,Republic Of Moldova,5264,Europe,Eastern Europe,"4,700,556","288,575",,0
+COG,Republic of the Congo,3380,Africa,Sub-Saharan Africa,"-426,613","1,528,318",,0
+ROU,Romania,3660,Europe,Eastern Europe,"4,443,225","2,610,626",,0
+RUS,Russian Federation,7077,Europe,Eastern Europe,"5,575,222","3,761,556",,0
+RWA,Rwanda,3750,Africa,Sub-Saharan Africa,"-194,995","3,005,885",,0
+KNA,Saint Kitts And Nevis,6270,Americas,Latin America and the Caribbean,"172,955","-6,272,499",,0
+LCA,Saint Lucia,6290,Americas,Latin America and the Caribbean,"139,957","-6,100,614",,0
+VCT,Saint Vincent & The Grenadines,6300,Americas,Latin America and the Caribbean,"1,315,527","-6,122,742",,0
+WSM,Samoa,5900,Oceania,Polynesia,"-1,383,333","-17,176,666",,0
+SMR,San Marino,5700,Europe,Southern Europe,"4,393,667","1,244,639",,0
+STP,Sao Tome And Principe,6830,Africa,Sub-Saharan Africa,"0,33654","672,732",,0
+SAU,Saudi Arabia,3780,Asia,Western Asia,"2,468,773","4,672,185",,0
+SEN,Senegal,3810,Africa,Sub-Saharan Africa,"146,937","-1,744,406",,0
+SRB,Serbia,4950,Europe,Southern Europe,"4,480,401","2,046,513",,0
+SYC,Seychelles,6280,Africa,Sub-Saharan Africa,"-462,001","5,545,501",,0
+SLE,Sierra Leone,3900,Africa,Sub-Saharan Africa,"848,714","-132,356",,0
+SGP,Singapore,3910,Asia,South-eastern Asia,"128,967","10,385,007",,0
+SVK,Slovakia,7340,Europe,Eastern Europe,"4,814,816","1,710,674",,0
+SVN,Slovenia,7346,Europe,Southern Europe,"4,605,108","1,450,513",,0
+SLB,Solomon Islands,6310,Oceania,Melanesia,"-943,333","159,95",,0
+SOM,Somalia,3920,Africa,Sub-Saharan Africa,"203,711","4,534,375",,0
+ZAF,South Africa,3930,Africa,Sub-Saharan Africa,"-3,392,584","1,842,322",,0
+SSD,South Sudan,4021,Africa,Sub-Saharan Africa,"12,15","24,45",,0
+ESP,Spain,3990,Europe,Southern Europe,"404,165","-370,256",,0
+LKA,Sri Lanka,780,Asia,Southern Asia,"688,297","7,990,708",,0
+SHN,"St, Helene",7732,Africa,Sub-Saharan Africa,"-1,593,872","-571,675",,-1
+PSE,State of Palestine,4321,Asia,Western Asia,"3,178,336","3,523,388",2017,0
+SDN,Sudan,4020,Africa,Northern Africa,"1,555,177","3,253,241",,0
+SUR,Suriname,6780,Americas,Latin America and the Caribbean,"586,638","-5,516,682",,0
+SWE,Sweden,4110,Europe,Northern Europe,"5,933,258","180,649",,0
+CHE,Switzerland,5750,Europe,Western Europe,"4,694,809","744,744",,0
+SYR,Syrian Arab Republic,4140,Asia,Western Asia,"335,102","3,629,128",,0
+TWN,Taiwan,7638,Asia,Eastern Asia,"2,504,776","12,153,185",,1
+TJK,Tajikistan,7614,Asia,Central Asia,"3,853,575","6,877,905",,0
+THA,Thailand,4200,Asia,South-eastern Asia,"1,375,398","10,050,144",,0
+TLS,Timor Leste,8100,Asia,South-eastern Asia,"-855,861","12,557,361",,1
+TLS,Timor-Leste,2080,Asia,South-eastern Asia,"-855,861","1,255,736",,0
+TGO,Togo,4230,Africa,Sub-Saharan Africa,"612,874","122,154",,0
+TKL,Tokelau,7742,Oceania,Polynesia,"-854,212","-17,251,591",,0
+TON,Tonga,6340,Oceania,Polynesia,"-2,113,938","-1,752,018",,0
+TTO,Trinidad And Tobago,4290,Americas,Latin America and the Caribbean,"1,066,668","-6,151,889",,0
+TUN,Tunisia,4320,Africa,Northern Africa,"3,681,897","1,016,579",,0
+TUR,Türkiye,4350,Asia,Western Asia,"3,991,987","3,285,427",,0
+TKM,Turkmenistan,7677,Asia,Central Asia,"37,95","5,838,333",,0
+TUV,Tuvalu,6180,Oceania,Polynesia,"-852,425","17,919,417",,0
+UGA,Uganda,4380,Africa,Sub-Saharan Africa,"0,31628","3,258,219",,0
+UKR,Ukraine,4410,Europe,Eastern Europe,"5,045,466","305,238",,0
+,Unclear,9999,,,,,,0
+ARE,United Arab Emirates,4490,Asia,Western Asia,"2,446,667","5,436,667",,0
+GBR,United Kingdom of Great Britain and Northern Ireland,4530,Europe,Northern Europe,"5,150,853","-0,12574",,0
+TZA,United Republic of Tanzania,4550,Africa,Sub-Saharan Africa,"-617,221","3,573,947",,0
+USA,United States of America,4560,Americas,Northern America,"3,889,511","-7,703,637",,0
+URY,Uruguay,4620,Americas,Latin America and the Caribbean,"-3,490,328","-5,618,816",,0
+,Ussr,4470,Europe,Eastern Europe,,,,-1
+UZB,Uzbekistan,7991,Asia,Central Asia,"4,126,465","6,921,627",,0
+VUT,Vanuatu,6550,Oceania,Melanesia,"-1,773,648","16,831,366",,0
+VEN,Venezuela,4710,Americas,Latin America and the Caribbean,"1,048,801","-6,687,919",,0
+VNM,Viet Nam,5690,Asia,South-eastern Asia,"210,245","10,584,117",,0
+ESH,Western Sahara,6910,Africa,Northern Africa,"261,579","-1,055,889",,0
+YEM,"Yemen, Republic Of",9400,Asia,Western Asia,"1,535,472","4,420,667",,0
+ZMB,Zambia,4980,Africa,Sub-Saharan Africa,"-1,540,669","2,828,713",,0
+ZWE,Zimbabwe,6260,Africa,Sub-Saharan Africa,"-1,782,772","3,105,337",,0
