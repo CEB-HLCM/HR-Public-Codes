@@ -1,4 +1,4 @@
-CITY_CODE,CITY_NAME,CITY_COMMON_NAME,COUNTRY_CODE,COUNTRY_NAME,REGION,SUBREGION,LATITUDE,LONGITUDE,EFFECTIVE,OBSOLETE
+﻿CITY_CODE,CITY_NAME,CITY_COMMON_NAME,COUNTRY_CODE,COUNTRY_NAME,REGION,SUBREGION,LATITUDE,LONGITUDE,EFFECTIVE,OBSOLETE
 AA890,Aachen,Aachen,5250,Germany,Europe,Western Europe,50.7767,6.083611111,,0
 AA337,Aathbiskot,Aathbiskot,2970,Nepal,Asia,Southern Asia,28.8,82.39,,0
 AB010,Aba,Aba,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,3.8621,30.232026,2021,0
@@ -467,7 +467,7 @@ BI034,Bihac,Bihac,1367,Bosnia and Herzegovina,Europe,Southern Europe,44.8169,15.
 BI636,Bilbao,Bilbao,3990,Spain,Europe,Southern Europe,43.2568,-2.92343,,0
 BI010,Bili,Bili,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,4.5641,19.93202,2021,0
 BI010,Bilin,Bilin,600,Myanmar,Asia,South-eastern Asia,17.226,97.23918,,0
-BI120,Bilinyan,Bilnyang,4021,South Sudan,Africa,Sub-Saharan Africa,4.85,31.60,,0
+BI120,Bilnyang,Bilnyang,4021,South Sudan,Africa,Sub-Saharan Africa,4.85,31.60,,0
 BI040,Bilma,Bilma,3180,Niger,Africa,Sub-Saharan Africa,13.8877,8.72404,,0
 BI050,Bilthoven,Bilthoven,3000,Netherlands,Europe,Western Europe,52.13,5.20139,,0
 BI060,Biltine,Biltine,810,Chad,Africa,Sub-Saharan Africa,15,21.5,,0
@@ -599,7 +599,7 @@ BU003,Buner,Buner,3300,Pakistan,Asia,Southern Asia,33.2939,73.46401,,0
 BU050,Bunia,Bunia,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,1.5621,30.247881,2021,0
 BU010,Bunj,Bunj,4021,South Sudan,Africa,Sub-Saharan Africa,9.9467,33.810465,2021,0
 BU012,Bunumbu,Bunumbu,3900,Sierra Leone,Africa,Sub-Saharan Africa,8.1742,-10.86432,,0
-BU020,Bur Dhubo,Burdhubo,1410,Ethiopia,Africa,Sub-Saharan Africa,3.1686,42.4933,,0
+BU020,Burdhubo,Burdhubo,1410,Ethiopia,Africa,Sub-Saharan Africa,3.1686,42.4933,,0
 BU218,Bur Dhubo,Bur Dhubo,3920,Somalia,Africa,Sub-Saharan Africa,6.86,47.8,,0
 BU543,Bur Salah,Bur Salah,3920,Somalia,Africa,Sub-Saharan Africa,7.1758,47.2453,,0
 BU311,Buram,Buram,4020,Sudan,Africa,Northern Africa,10.6277,29.94327,2023,0
@@ -910,7 +910,7 @@ DA030,Daraa,Daraa,4140,Syrian Arab Republic,Asia,Western Asia,32.6189,36.102124,
 DA030,Dar-es-Salaam,Dar-es-Salaam,4550,United Republic of Tanzania,Africa,Sub-Saharan Africa,-6.8352,39.19597,2021,0
 DA726,Darma,Darma,2970,Nepal,Asia,Southern Asia,28.3667,82.1667,,0
 DA100,Daru,Daru,3900,Sierra Leone,Africa,Sub-Saharan Africa,7.9898,-10.84223,,0
-DA090,Daruma,Doruma,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,4.233333,27.666667,,0
+DA090,Doruma,Doruma,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,4.233333,27.666667,,0
 DA072,Daruvar,Daruvar,1676,Croatia,Europe,Southern Europe,45.5936,17.18722,,0
 DA020,Darwin,Darwin,270,Australia,Oceania,Australia and New Zealand,-12.4338,130.87369,,0
 DA490,Dasharathchand,Dasharathchand,2970,Nepal,Asia,Southern Asia,29.5179,80.467,,0
@@ -988,7 +988,7 @@ DJ045,Djimma,Djimma,1410,Ethiopia,Africa,Sub-Saharan Africa,7.6734,36.83441,,0
 DJ010,Djohung,Djohung,690,Cameroon,Africa,Sub-Saharan Africa,6.8372,14.692476,2021,0
 DJ204,Djougou,Djougou,1170,Benin,Africa,Sub-Saharan Africa,9.69171,1.63894,,0
 DJ030,Djoumouna,Djoumouna,3380,Republic of the Congo,Africa,Sub-Saharan Africa,-4.3761,15.16,,0
-DJ010,Djouve,Djoue,3380,Republic of the Congo,Africa,Sub-Saharan Africa,-4.311,15.229,,0
+DJ010,Djoue,Djoue,3380,Republic of the Congo,Africa,Sub-Saharan Africa,-4.311,15.229,,0
 DN050,Dnipropetrovsk,Dnipro,4410,Ukraine,Europe,Eastern Europe,48.5,35,,0
 DO010,Doba,Doba,810,Chad,Africa,Sub-Saharan Africa,8.4701,17.83026,,0
 DO030,Dobley,Dhobley,3920,Somalia,Africa,Sub-Saharan Africa,2.4876,42.311369,,0
@@ -1203,12 +1203,12 @@ FR277,Fressingfield Eye,Eye,4530,United Kingdom of Great Britain and Northern Ir
 FR527,Fribourg,Fribourg,5750,Switzerland,Europe,Western Europe,46.8061,7.163056,,0
 FR080,Frunze,Frunze,4397,Kyrgyzstan,Asia,Central Asia,42.8667,74.6,,0
 FR745,Fryeburg,Fryeburg,4560,United States of America,Americas,Northern America,44.0164,-70.98111111,,0
-FU032,Fugnido,Funyido,1410,Ethiopia,Africa,Sub-Saharan Africa,7.75,34.5,2021,0
+FU032,Funyido,Funyido,1410,Ethiopia,Africa,Sub-Saharan Africa,7.75,34.5,2021,0
 FU657,Fujisawa. Kanagawa,Fujisawa. Kanagawa,2310,Japan,Asia,Eastern Asia,35.3356,139.4933333,,0
 FU100,Fukuoka,Fukuoka,2310,Japan,Asia,Eastern Asia,33.5862,130.394459,,0
 FK010,Fukushima,Fukushima,2310,Japan,Asia,Eastern Asia,37.7592,140.473127,,0
 FU051,Funafuti,Funafuti,6180,Tuvalu,Oceania,Polynesia,-8.5172,179.13054,2021,0
-FU010,Funatuni,Funafuti,6180,Tuvalu,Oceania,Polynesia,-8.5211,179.1983,,0
+FU010,Funafuti,Funafuti,6180,Tuvalu,Oceania,Polynesia,-8.5211,179.1983,,0
 FU070,Fursatganj,Fursatganj,2040,India,Asia,Southern Asia,26.2568,81.41105,,0
 FU070,Fuzhou,Fuzhou,860,China,Asia,Eastern Asia,21.9822,111.20703,,0
 GA020,Gabes,Gabes,4320,Tunisia,Africa,Northern Africa,33.8333,9.75,,0
@@ -1638,14 +1638,14 @@ JU757,Junction,Junction,2280,Jamaica,Americas,Latin America and the Caribbean,17
 JU549,Junechande,Junechande,2970,Nepal,Asia,Southern Asia,29.842741,80.540345,,0
 JW010,Jwayya,Jwayya,2490,Lebanon,Asia,Western Asia,33.2378,35.33731,,0
 KA030,Kaabong,Kaabong,4380,Uganda,Africa,Sub-Saharan Africa,3.4836,34.14917,,0
-KA010,Kaarenga,Karenga,4380,Uganda,Africa,Sub-Saharan Africa,3.816667,33.95,,0
+KA010,Karenga,Karenga,4380,Uganda,Africa,Sub-Saharan Africa,3.816667,33.95,,0
 KA010,Kabak,Kaback,1770,Guinea,Africa,Sub-Saharan Africa,9.3997,-13.350587,,0
 KA005,Kabala,Kabala,3900,Sierra Leone,Africa,Sub-Saharan Africa,9.5889,-11.55256,,0
 KA015,Kabale,Kabale,4380,Uganda,Africa,Sub-Saharan Africa,0,31.71667,,0
 KA025,Kabalo,Kabalo,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,-6.0526,26.9143,2021,0
 KA010,Kabanjahe,Kabanjahe,2070,Indonesia,Asia,South-eastern Asia,3.1076,98.4876,,0
 KA010,Kabarore,Kabarore,3750,Rwanda,Africa,Sub-Saharan Africa,-1.6211,30.385,2021,0
-KA013,Kabcherng,Kap Choeng,4200,Thailand,Asia,South-eastern Asia,14.474722,103.594167,,0
+KA013,Kap Choeng,Kap Choeng,4200,Thailand,Asia,South-eastern Asia,14.474722,103.594167,,0
 KA030,Kabete,Kabete,2400,Kenya,Africa,Sub-Saharan Africa,-1.241,36.7273,,0
 KA020,Kabkabiya,Kabkabiya,4020,Sudan,Africa,Northern Africa,13.6513,24.088931,,0
 KA020,Kabong,Kaabong,4380,Uganda,Africa,Sub-Saharan Africa,3.5167,34.116667,,0
@@ -1887,7 +1887,7 @@ KO020,Kolwezi,Kolwezi,990,Democratic Republic of the Congo,Africa,Sub-Saharan Af
 KO040,Komanda,Komanda,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,1.369,29.7789,,0
 KO038,Kombolcha,Kombolcha,1410,Ethiopia,Africa,Sub-Saharan Africa,11.0867,39.73666667,,0
 KO052,Kompienga,Kompienga,4590,Burkina Faso,Africa,Sub-Saharan Africa,11.0811,0.723074,,0
-KO050,Konebo,Kongbo,750,Central African Republic,Africa,Sub-Saharan Africa,4.768889,21.367222,,0
+KO050,Kongbo,Kongbo,750,Central African Republic,Africa,Sub-Saharan Africa,4.768889,21.367222,,0
 KO005,Kongor,Kongor,4020,Sudan,Africa,Northern Africa,8.4937,28.72498,,0
 KO005,Kongor,Kongor,4021,South Sudan,Africa,Sub-Saharan Africa,8.4937,28.72498,,0
 KO319,Konso,Konso,1410,Ethiopia,Africa,Sub-Saharan Africa,5.25,37.48333333,,0
@@ -1950,7 +1950,7 @@ KU120,Kunming,Kunming,860,China,Asia,Eastern Asia,25.0389,102.71833,,0
 KU010,Kupang,Kupang,2070,Indonesia,Asia,South-eastern Asia,-10.1632,123.601771,2020,0
 KU070,Kurgan-Tyu,Qurghonteppa,7614,Tajikistan,Asia,Central Asia,37.8357,68.782092,,0
 KU200,Kurmuk,Kurmuk,4020,Sudan,Africa,Northern Africa,10.55,34.28333,,0
-KU040,Kurtunwaary,Kurtunwaaray,3920,Somalia,Africa,Sub-Saharan Africa,1.6101218960975054,44.335305731766695,,0
+KU040,Kurtunwaaray,Kurtunwaaray,3920,Somalia,Africa,Sub-Saharan Africa,1.6101218960975054,44.335305731766695,,0
 KU882,Kushe,Kushe,2970,Nepal,Asia,Southern Asia,28.853232,82.127111,,0
 KU090,Kushka,Kushka,7677,Turkmenistan,Asia,Central Asia,35.2667,62.33333,,0
 KU073,Kusma,Kusma,2970,Nepal,Asia,Southern Asia,28.2227,83.6826,,0
@@ -2012,7 +2012,7 @@ LA030,Lahan,Lahan,2970,Nepal,Asia,Southern Asia,26.7202,86.48258,,0
 LA168,Lahe,Lahe,600,Myanmar,Asia,South-eastern Asia,26.333333,95.433333,,0
 LA045,Lahej/Saber/Seiyun,Lahej,9400,Yemen,Asia,Western Asia,13.0567,44.88194,,0
 LA050,Lahore,Lahore,3300,Pakistan,Asia,Southern Asia,31.5196,74.326291,2021,0
-LA060,Laht,Lahij,9400,Yemen,Asia,Western Asia,13.057109121871472,44.88308354994578,,0
+LA060,Lahij,Lahij,9400,Yemen,Asia,Western Asia,13.057109121871472,44.88308354994578,,0
 LA010,Lai,Lai,810,Chad,Africa,Sub-Saharan Africa,7.723,16.10198,,0
 LA010,Lajes,Lajes,540,Brazil,Americas,Latin America and the Caribbean,-27.8161,-50.32611,,0
 LA025,Lake Murray,Lake Murray,6490,Papua New Guinea,Oceania,Melanesia,-6.7999,141.43739,,0
@@ -2103,7 +2103,7 @@ LI989,Linden,Linden,3930,South Africa,Africa,Sub-Saharan Africa,26.1351,27.9924,
 LI030,Linguere,Linguere,3810,Senegal,Africa,Sub-Saharan Africa,15.3953,-15.1193,,0
 LI002,Linz,Linz,300,Austria,Europe,Western Europe,46.7297,14.04963,,0
 LI090,Liquica,Liquica,8100,Timor-Leste,Asia,South-eastern Asia,-8.5877,125.34209,,0
-2559,Lir - Other Cities,Monrovia,2550,Liberia,Africa,Sub-Saharan Africa,6.314885093923108,-10.801594977852401,,0
+2559,Monrovia,Monrovia,2550,Liberia,Africa,Sub-Saharan Africa,6.314885093923108,-10.801594977852401,,0
 LI110,Lira,Lira,4380,Uganda,Africa,Sub-Saharan Africa,2.2457,32.89624,,0
 LI070,Lisala,Lisala,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,2.1513,21.51672,,0
 LI010,Lisbon,Lisbon,3480,Portugal,Europe,Southern Europe,38.7167,-9.133327,,0
@@ -2118,7 +2118,7 @@ LI080,Liwang,Liwang,2970,Nepal,Asia,Southern Asia,28.3045,82.63531,,0
 LI025,Liwonde,Liwonde,2690,Malawi,Africa,Sub-Saharan Africa,-15.0666,35.22543,,0
 LJ080,Ljubljana,Ljubljana,7346,Slovenia,Europe,Southern Europe,46.0511,14.505122,,0
 LL010,Llano Grande,Llano Grande,930,Colombia,Americas,Latin America and the Caribbean,7.0222,-73.16671,,0
-LL010,Lligan,Iligan,3420,Philippines,Asia,South-eastern Asia,8.22718978013681,124.45896493012339,,0
+LL010,Iligan,Iligan,3420,Philippines,Asia,South-eastern Asia,8.22718978013681,124.45896493012339,,0
 LO035,Lobatse,Lobatse,520,Botswana,Africa,Sub-Saharan Africa,-25.2142,25.68083,,0
 LO010,Lobito,Lobito,6810,Angola,Africa,Sub-Saharan Africa,-12.3644,13.53601,,0
 LO020,Lodja,Lodja,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,-3.521,23.6005,,0
@@ -2135,7 +2135,7 @@ LO010,Lombok-Sumbaya,Lombok,2070,Indonesia,Asia,South-eastern Asia,-1.6148,116.1
 LO020,Lome,Lome,4230,Togo,Africa,Sub-Saharan Africa,6.1304,1.21583,2021,0
 LO010,Lomela,Lomela,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,-2.2806,23.36596,,0
 LO012,Loncoche,Loncoche,840,Chile,Americas,Latin America and the Caribbean,-39.3667,-72.633333,,0
-LO060,Londlimgali,Londuimbali,6810,Angola,Africa,Sub-Saharan Africa,-12.182479819897006,15.300133587543026,,0
+LO060,Londuimbali,Londuimbali,6810,Angola,Africa,Sub-Saharan Africa,-12.182479819897006,15.300133587543026,,0
 LO010,London,London,4530,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,51.5085,-0.125732,,0
 LO040,London. Ontario,London. Ontario,720,Canada,Americas,Northern America,42.9675,-81.2325,,0
 LO100,Loralai,Loralai,3300,Pakistan,Asia,Southern Asia,30.3683,68.598023,,0
@@ -2195,7 +2195,7 @@ MA092,Mabalacat City,Mabalacat,3420,Philippines,Asia,South-eastern Asia,15.2228,
 MA010,Maban,Maban,4021,South Sudan,Africa,Sub-Saharan Africa,9.9792,33.75,,0
 MA020,Mabior,Mabior,4021,South Sudan,Africa,Sub-Saharan Africa,7.1653652,31.4038165,,0
 MA020,Mabior,Mabior,4020,Sudan,Africa,Northern Africa,6.1603822,31.5762898,,0
-MA020,Mabior,Membrio,3990,Spain,Europe,Southern Europe,39.52680026178812,-7.0543957026070405,,0
+MA020,Membrio,Membrio,3990,Spain,Europe,Southern Europe,39.52680026178812,-7.0543957026070405,,0
 MA000,Macao,Macao,6880,Macao,Asia,Eastern Asia,22.2006,113.546105,2020,0
 MA010,Macao (China),Macao (China),860,China,Asia,Eastern Asia,22.2006,113.546105,2020,0
 MA020,Macenta,Macenta,1770,Guinea,Africa,Sub-Saharan Africa,8.5435,-9.47099,,0
@@ -2236,12 +2236,12 @@ MA040,Mai Ha,Mai Ha,5690,Viet Nam,Asia,South-eastern Asia,21.7067,106.61199,,0
 MA452,Maicao,Maicao,930,Colombia,Americas,Latin America and the Caribbean,11.3778,-72.238889,,0
 MA318,Maichew,Maichew,1410,Ethiopia,Africa,Sub-Saharan Africa,12.7875,39.54222,,0
 MA150,Maiduguri,Maiduguri,3210,Nigeria,Africa,Sub-Saharan Africa,11.8395,13.153646,2021,0
-MA040,Maifaa,Mayfa'ah,9400,Yemen,Asia,Western Asia,14.21735316112053,45.81834070385272,,0
-MA037,Maihimet,Mai-Mine,2737,Eritrea,Africa,Sub-Saharan Africa,14.551972698182336,38.50012746767707,,0
+MA040,Mayfa'ah,Mayfa'ah,9400,Yemen,Asia,Western Asia,14.21735316112053,45.81834070385272,,0
+MA037,Mai-Mine,Mai-Mine,2737,Eritrea,Africa,Sub-Saharan Africa,14.551972698182336,38.50012746767707,,0
 MA170,Maimana,Maimana,60,Afghanistan,Asia,Southern Asia,36.25,64.83333,,0
 MA040,Maine Soroa,Maine Soroa,3180,Niger,Africa,Sub-Saharan Africa,13.2114,12.0241,,0
 MA010,Maio/Boa Vista,Boa Vista,6820,Cape Verde,Africa,Sub-Saharan Africa,16.1,-22.8,,0
-MA039,Maiut,Chiang Mai,4200,Thailand,Asia,South-eastern Asia,18.804149491394185,98.98671535620824,,0
+MA039,Chiang Mai,Chiang Mai,4200,Thailand,Asia,South-eastern Asia,18.804149491394185,98.98671535620824,,0
 MA439,Majadahonda,Majadahonda,3990,Spain,Europe,Southern Europe,40.4738,3.8683,,0
 MA096,Majalengka (West Java),Majalengka (West Java),2070,Indonesia,Asia,South-eastern Asia,-6.8361,108.22778,,0
 MA010,Majunga,Majunga,2670,Madagascar,Africa,Sub-Saharan Africa,-15.7167,46.31667,,0
@@ -2340,7 +2340,7 @@ MA069,Maquela Do,Maquela Do,6810,Angola,Africa,Sub-Saharan Africa,-6.0572,15.109
 MA047,Maracaibo,Maracaibo,4710,Venezuela,Americas,Latin America and the Caribbean,10.6666,-71.612441,2020,0
 MA050,Maracay,Maracay,4710,Venezuela,Americas,Latin America and the Caribbean,8.2275,-63.66492,,0
 MA025,Maradi,Maradi,3180,Niger,Africa,Sub-Saharan Africa,13.5012,7.10253,2021,0
-MA071,Marakeh,Maarakeh,2490,Lebanon,Asia,Western Asia,33.27373948054716,35.30913318432839,,0
+MA071,Maarakeh,Maarakeh,2490,Lebanon,Asia,Western Asia,33.27373948054716,35.30913318432839,,0
 MA010,Maralal,Maralal,2400,Kenya,Africa,Sub-Saharan Africa,1.0968,36.69799,,0
 MA091,Maramag. Bukidnon,Maramag. Bukidnon,3420,Philippines,Asia,South-eastern Asia,7.7633,125.00528,,0
 MA070,Marawi City,Marawi,3420,Philippines,Asia,South-eastern Asia,8,124.3,,0
@@ -2378,7 +2378,7 @@ MA070,Massawa,Massawa,2737,Eritrea,Africa,Sub-Saharan Africa,15.6081,39.47455,,0
 MA075,Massengir,Massingir,6890,Mozambique,Africa,Sub-Saharan Africa,-23.9181,32.1575,,0
 MA099,Masteri,Masteri,4020,Sudan,Africa,Northern Africa,13.1219293,22.1871148,,0
 MA020,Mastung,Mastung,3300,Pakistan,Asia,Southern Asia,29.8802,66.84185,,0
-MA070,Masuguri,Masuguru,4550,United Republic of Tanzania,Africa,Sub-Saharan Africa,-5.175869664571773,38.78602020627887,,0
+MA070,Masuguru,Masuguru,4550,United Republic of Tanzania,Africa,Sub-Saharan Africa,-5.175869664571773,38.78602020627887,,0
 MA060,Masvingo,Masvingo,6260,Zimbabwe,Africa,Sub-Saharan Africa,-20.0702,30.833596,,0
 MA070,Matadi,Matadi,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,-5.8256559,13.4609047,2021,0
 MA013,Matadjana,Matadjana,810,Chad,Africa,Sub-Saharan Africa,15.1667,21.5833,,0
@@ -2456,7 +2456,7 @@ ME030,Menaka,Menaka,2760,Mali,Africa,Sub-Saharan Africa,15.9153,2.399484,2021,0
 ME010,Mendi,Mendi,6490,Papua New Guinea,Oceania,Melanesia,-6.1478,143.6572,,0
 ME050,Mendoza,Mendoza,240,Argentina,Americas,Latin America and the Caribbean,-34.5,-68.5,,0
 ME564,Mendrisio,Mendrisio,5750,Switzerland,Europe,Western Europe,45.8667,8.983329,,0
-ME533,Menhingi,Mchinji,2690,Malawi,Africa,Sub-Saharan Africa,-13.799906486637825,32.89310933666469,,0
+ME533,Mchinji,Mchinji,2690,Malawi,Africa,Sub-Saharan Africa,-13.799906486637825,32.89310933666469,,0
 ME147,Menomonie,Menomonie,4560,United States of America,Americas,Northern America,44.8792,-91.91805556,,0
 ME055,Menongue,Menongue,6810,Angola,Africa,Sub-Saharan Africa,-17.4167,18.46667,,0
 ME015,Merauke,Merauke,2070,Indonesia,Asia,South-eastern Asia,-8.4996,140.40613,,0
@@ -2515,7 +2515,7 @@ MI070,Mirpur,Mirpur,3300,Pakistan,Asia,Southern Asia,25.5263,69.011056,,0
 MI010,Mishamo,Mishamo,4550,United Republic of Tanzania,Africa,Sub-Saharan Africa,-5.6833,30.68333,,0
 MI010,Missan,Missan,2130,Iraq,Asia,Western Asia,31.85,47.01667,,0
 MI086,Mississauga,Mississauga,720,Canada,Americas,Northern America,43.585,-79.645,,0
-MI010,Misteria,Misterei,4020,Sudan,Africa,Northern Africa,13.125484489032207,22.158535167766903,,0
+MI010,Misterei,Misterei,4020,Sudan,Africa,Northern Africa,13.125484489032207,22.158535167766903,,0
 MI030,Misurata,Misurata,2580,Libya,Africa,Northern Africa,32.3754,15.09254,,0
 MI060,Mitharlam,Mihtarlam,60,Afghanistan,Asia,Southern Asia,34.64,70.19714,,0
 MI010,Mitiaro,Mitiaro,3090,New Zealand,Oceania,Australia and New Zealand,-19.8811,-157.698155,,0
@@ -2539,7 +2539,7 @@ MO035,Mogadishu,Mogadishu,3920,Somalia,Africa,Sub-Saharan Africa,2.0428,45.33855
 MO050,Moguno,Moguno,3210,Nigeria,Africa,Sub-Saharan Africa,12.6833,13.6,,0
 MO030,Mohales Hoek,Mohales Hoek,2520,Lesotho,Africa,Sub-Saharan Africa,-30.0667,27.8,,0
 MO130,Mohamand Dara,Muhmand Dara,60,Afghanistan,Asia,Southern Asia,34.2153,71.039868,,0
-MO010,Mohamed Gol,Mohamed Qol,4020,Sudan,Africa,Northern Africa,20.9054513696572,37.158698133211566,,0
+MO010,Mohamed Qol,Mohamed Qol,4020,Sudan,Africa,Northern Africa,20.9054513696572,37.158698133211566,,0
 MO010,Moheli,Moheli,6620,Comoros,Africa,Sub-Saharan Africa,-12.3427,43.73623,,0
 MO024,Moheshkhali,Moheshkhali,5070,Bangladesh,Asia,Southern Asia,21.6185,91.8597748,,0
 MO020,Moissala,Moissala,810,Chad,Africa,Sub-Saharan Africa,8.3382,17.765058,2021,0
@@ -2581,7 +2581,7 @@ MO120,Moram,Moram,2550,Liberia,Africa,Sub-Saharan Africa,6.7115,-9.60957,,0
 MO080,Moramanga,Moramanga,2670,Madagascar,Africa,Sub-Saharan Africa,-18.9495,48.23007,,0
 MO020,Morazan,Morazan,1380,El Salvador,Americas,Latin America and the Caribbean,13.8,-88.1,,0
 MO070,Morelos,Morelos,2850,Mexico,Americas,Latin America and the Caribbean,18.75,-99.06667,,0
-MO111,Mornie,Murnei,4020,Sudan,Africa,Northern Africa,12.958541941779913,22.86501180597936,,0
+MO111,Murnei,Murnei,4020,Sudan,Africa,Northern Africa,12.958541941779913,22.86501180597936,,0
 MO060,Morogoro,Morogoro,4550,United Republic of Tanzania,Africa,Sub-Saharan Africa,-7.9167,37.25,,0
 MO090,Morondava,Morondava,2670,Madagascar,Africa,Sub-Saharan Africa,-23.6167,47,,0
 MO020,Morong,Morong,3420,Philippines,Asia,South-eastern Asia,17.9032,120.4601,,0
@@ -2620,7 +2620,7 @@ MS115,Msekera,Msekera,4980,Zambia,Africa,Sub-Saharan Africa,-13.6407,32.52431,,0
 MS143,Msida,Msida,2790,Malta,Europe,Southern Europe,35.8978,14.48943333,,0
 MT060,Mto-Wa-Mbu,Mto-Wa-Mbu,4550,United Republic of Tanzania,Africa,Sub-Saharan Africa,-3.35,35.85,,0
 MT072,Mtwara,Mtwara,4550,United Republic of Tanzania,Africa,Sub-Saharan Africa,-10.8,39.13333,,0
-MU081,Muabasa,Moebase,6890,Mozambique,Africa,Sub-Saharan Africa,-17.061329182323984,38.69842185480802,,0
+MU081,Moebase,Moebase,6890,Mozambique,Africa,Sub-Saharan Africa,-17.061329182323984,38.69842185480802,,0
 MU010,Mubende,Mubende,4380,Uganda,Africa,Sub-Saharan Africa,1.6533,31.58528,,0
 MU010,Mubi,Mubi,3210,Nigeria,Africa,Sub-Saharan Africa,10.2667,13.266667,2021,0
 MU020,Mucusso,Mucusso,6810,Angola,Africa,Sub-Saharan Africa,-18.0167,21.43333,,0
@@ -2701,7 +2701,7 @@ NA040,Nakon Ratchasima,Nakon Ratchasima,4200,Thailand,Asia,South-eastern Asia,15
 NA004,Nakorn Panom,Nakorn Panom,4200,Thailand,Asia,South-eastern Asia,17.4861,104.48333,,0
 NA005,Nakorn Sawan,Nakorn Sawan,4200,Thailand,Asia,South-eastern Asia,15.7,100.08333,,0
 NA120,Nakuru,Nakuru,2400,Kenya,Africa,Sub-Saharan Africa,-0.484,36.17126,,0
-NA015,Nalajkha,Nalayh,2880,Mongolia,Asia,Eastern Asia,47.78729642673017,107.39242619852425,,0
+NA015,Nalayh,Nalayh,2880,Mongolia,Asia,Eastern Asia,47.78729642673017,107.39242619852425,,0
 NA381,Nalgad,Nalgad,2970,Nepal,Asia,Southern Asia,28.79076,82.127111,,0
 NA100,Namaacha,Namaacha,6890,Mozambique,Africa,Sub-Saharan Africa,-25.975,32.01897,,0
 NA102,Namapa,Namapa,6890,Mozambique,Africa,Sub-Saharan Africa,-17.335,36.4675,,0
@@ -2832,7 +2832,7 @@ NU397,Nur-Sultan,Nur-Sultan,4319,Kazakhstan,Asia,Central Asia,51.1553,71.433086,
 NU040,Nusa Dua,Nusa Dua,2070,Indonesia,Asia,South-eastern Asia,-8.8005,115.23341,,0
 NU060,Nushki,Nushki,3300,Pakistan,Asia,Southern Asia,29.5522,66.02288,,0
 NU005,Nuwakot,Nuwakot,2970,Nepal,Asia,Southern Asia,28.1311,83.89292,,0
-NY010,Nyabara,Nyabira,6260,Zimbabwe,Africa,Sub-Saharan Africa,-17.678514852116614,30.806044812642007,,0
+NY010,Nyabira,Nyabira,6260,Zimbabwe,Africa,Sub-Saharan Africa,-17.678514852116614,30.806044812642007,,0
 NY020,Nyabiondo,Nyabiondo,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,-1.3122,28.731222,,0
 NY010,Nyabyeya,Nyabyeya,4380,Uganda,Africa,Sub-Saharan Africa,1.678,31.550674,,0
 NY010,Nyagataro,Nyagatare,3750,Rwanda,Africa,Sub-Saharan Africa,-1.2952,30.3226,,0
@@ -2841,7 +2841,7 @@ NY015,Nyal,Nyal,4021,South Sudan,Africa,Sub-Saharan Africa,7.7523,30.27111,,0
 NY010,Nyala,Nyala,4020,Sudan,Africa,Northern Africa,12.0489,24.880683,2021,0
 NY015,Nyamagabe,Nyamagabe,3750,Rwanda,Africa,Sub-Saharan Africa,-2.4691,29.5946,,0
 NY020,Nyamata,Nyamata,3750,Rwanda,Africa,Sub-Saharan Africa,-1.5856,29.6265,,0
-NY111,Nyamatikit,Nyamatikiti,6260,Zimbabwe,Africa,Sub-Saharan Africa,-16.68333,32.93333,,0
+NY111,Nyamatikiti,Nyamatikiti,6260,Zimbabwe,Africa,Sub-Saharan Africa,-16.68333,32.93333,,0
 NY030,Nyamilima,Nyamilima,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,-0.8838,29.566629,,0
 NY020,Nyamlel,Nyamlel,4021,South Sudan,Africa,Sub-Saharan Africa,9.1333,26.966667,,0
 NY011,Nyangombe,Nyangombe,6260,Zimbabwe,Africa,Sub-Saharan Africa,-18.287,32.725,,0
@@ -2868,7 +2868,7 @@ OD074,Odienne,Odienne,2250,Côte d'Ivoire,Africa,Sub-Saharan Africa,9.4117,-7.51
 OE050,Oekusi,Oekusi,8100,Timor-Leste,Asia,South-eastern Asia,-9.2037,124.35687,2020,0
 OG010,Ogaden,Ogaden,1410,Ethiopia,Africa,Sub-Saharan Africa,7.28,44.3,,0
 OG020,Ogoja,Ogoja,3210,Nigeria,Africa,Sub-Saharan Africa,6.6552,8.797811,2021,0
-OH040,Ohat Yai,Hat Yai,4200,Thailand,Asia,South-eastern Asia,7.014755475479908,100.47082903935457,,0
+OH040,Hat Yai,Hat Yai,4200,Thailand,Asia,South-eastern Asia,7.014755475479908,100.47082903935457,,0
 OI803,Oinofyta,Oinofyta,1650,Greece,Europe,Southern Europe,38.3,23.633333,,0
 OK010,Okara,Okara,3300,Pakistan,Asia,Southern Asia,30.735,73.35026,,0
 OK020,Okhaldhunga,Okhaldhunga,2970,Nepal,Asia,Southern Asia,27.3103,86.50502,,0
@@ -3027,7 +3027,7 @@ PH011,Phalaborwa,Phalaborwa,3930,South Africa,Africa,Sub-Saharan Africa,-23.943,
 PH484,Phalombe,Phalombe,2690,Malawi,Africa,Sub-Saharan Africa,-15.79,35.65,,0
 PH010,Phanat Nikhom,Phanat Nikhom,4200,Thailand,Asia,South-eastern Asia,13.4458,101.18445,,0
 PH020,Phang Nga,Phang Nga,4200,Thailand,Asia,South-eastern Asia,8.7005,98.26447,,0
-PH020,Phaunggyi,Phaung Gyi,600,Myanmar,Asia,South-eastern Asia,17.32117519272984,96.1807243704219,,0
+PH020,Phaung Gyi,Phaung Gyi,600,Myanmar,Asia,South-eastern Asia,17.32117519272984,96.1807243704219,,0
 PH010,Phidim,Phidim,2970,Nepal,Asia,Southern Asia,27.1456,87.76698,,0
 PH865,Philadelphia,Philadelphia,4560,United States of America,Americas,Northern America,40.0094,-75.133346,,0
 PH324,Philipsburg,Philipsburg,3915,Sint Maarten,Americas,Latin America and the Caribbean,18.0237,-63.0458,,0
@@ -3206,7 +3206,7 @@ RA765,Rajbiraj,Rajbiraj,2970,Nepal,Asia,Southern Asia,26.54055556,86.74861111,,0
 RA040,Rajiraj,Rokupr,2970,Nepal,Asia,Southern Asia,27.6017,85.2206,,0
 RA035,Rajshahi,Rajshahi,5070,Bangladesh,Asia,Southern Asia,25,89,,0
 RA010,Rakai,Rakai,4380,Uganda,Africa,Sub-Saharan Africa,-0.72,31.48389,,0
-RA010,Rakamonga,Rakahanga,3090,New Zealand,Oceania,Australia and New Zealand,-10.034103350986413,-161.09015075167173,,0
+RA010,Rakahanga,Rakahanga,3090,New Zealand,Oceania,Australia and New Zealand,-10.034103350986413,-161.09015075167173,,0
 RA010,Raleigh,Raleigh,4560,United States of America,Americas,Northern America,35.7803977,-78.6390989,,0
 RA010,Ramadi,Ramadi,2130,Iraq,Asia,Western Asia,33.4236,43.297185,,0
 RA050,Ramallah,Ramallah,4321,State of Palestine,Asia,Western Asia,31.9001,35.206872,2019,0
@@ -3471,7 +3471,7 @@ SC010,Scarborough,Scarborough,4290,Trinidad and Tobago,Americas,Latin America an
 sc020,Schalamcheh,Shalamcheh,2100,Iran,Asia,Southern Asia,30.4953,48.06833,,0
 SC754,Schiltigheim,Schiltigheim,1470,France,Europe,Western Europe,48.6069,7.749166667,,0
 SC520,Schiphol Airp.,Schiphol Airp.,3000,Netherlands,Europe,Western Europe,52.3081,4.764167,,0
-SC010,Schowak (same as Es Showak),Showak,4020,Sudan,Africa,Northern Africa,14.400805086401686,35.86589806602871,,0
+SC010,Showak,Showak,4020,Sudan,Africa,Northern Africa,14.400805086401686,35.86589806602871,,0
 SC620,Scotland,Scotland,4530,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,56.26,-4.21,,0
 SE010,Seattle,Seattle,4560,United States of America,Americas,Northern America,47.856,-122.15838,,0
 SE035,Sebha,Sebha,2580,Libya,Africa,Northern Africa,27.0332,14.431692,,0
@@ -3595,7 +3595,7 @@ SO010,Sokolac,Sokolac,4950,Serbia,Europe,Southern Europe,45.8496,19.54019,,0
 SO220,Sokoto,Sokoto,3210,Nigeria,Africa,Sub-Saharan Africa,13.0611,5.237319,2021,0
 SO340,Solan,Solan,2040,India,Asia,Southern Asia,30.9091,77.10869,,0
 SO010,Soliman,Soliman,4320,Tunisia,Africa,Northern Africa,36.6964,10.49167,,0
-SO005,Soliway Village,Soliwaya,4550,United Republic of Tanzania,Africa,Sub-Saharan Africa,-9.240306309721262,35.12683985760219,,0
+SO005,Soliwaya,Soliwaya,4550,United Republic of Tanzania,Africa,Sub-Saharan Africa,-9.240306309721262,35.12683985760219,,0
 SO150,Solo,Solo,2070,Indonesia,Asia,South-eastern Asia,-7.5561,110.83167,,0
 SO040,Solola,Solola,1680,Guatemala,Americas,Latin America and the Caribbean,14.6667,-91.25,,0
 SO047,Sololo,Sololo,2400,Kenya,Africa,Sub-Saharan Africa,3.5639,38.64321,,0
@@ -4056,7 +4056,7 @@ VU040,Vukovar,Vukovar,1676,Croatia,Europe,Southern Europe,45.1667,18.91667,,0
 WA010,Wa,Wa West,1620,Ghana,Africa,Sub-Saharan Africa,9.9656,-2.63098,,0
 WA030,Wabag,Wabag,6490,Papua New Guinea,Oceania,Melanesia,-5.492,143.721,,0
 WA010,Wabo,Wabo,6490,Papua New Guinea,Oceania,Melanesia,-7.6667,145,,0
-WA040,Wad Kawi,Wad Madani,4020,Sudan,Africa,Northern Africa,14.396856095868069,33.54014733430938,,0
+WA040,Wad Madani,Wad Madani,4020,Sudan,Africa,Northern Africa,14.396856095868069,33.54014733430938,,0
 WA070,Wad Medani,Wad Medani,4020,Sudan,Africa,Northern Africa,14.4012,33.51989,,0
 WA010,Wadi Beihan,Wadi Beihan,9400,Yemen,Asia,Western Asia,15.1833,44.85,,0
 WA010,Wadi Dawassir,Wadi ad-Dawasir,3780,Saudi Arabia,Asia,Western Asia,20.3989,46.47889,,0
@@ -4102,7 +4102,7 @@ WI057,Winterveld,Winterveld,3930,South Africa,Africa,Sub-Saharan Africa,-25.4168
 WO629,Wokingham,Wokingham,4530,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,51.4103,-0.833888889,,0
 WO050,Wollo Province,Wollo,1410,Ethiopia,Africa,Sub-Saharan Africa,14.231,39.652,,0
 WO150,Wondogenet,Wondo Genet,1410,Ethiopia,Africa,Sub-Saharan Africa,7.0842,38.6189,,0
-WO010,Wongnute,Wangniudun,860,China,Asia,Eastern Asia,23.0565120641531,113.65634187074839,,0
+WO010,Wangniudun,Wangniudun,860,China,Asia,Eastern Asia,23.0565120641531,113.65634187074839,,0
 WO440,Worcester,Worcester,4530,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe,52.1912,-2.22231,,0
 WO010,Wote,Wote,2400,Kenya,Africa,Sub-Saharan Africa,-1.7808,37.62882,,0
 WU005,Wuchang,Wuchang,860,China,Asia,Eastern Asia,26.3745,116.74128,,0
@@ -4113,7 +4113,7 @@ WU010,Wuxi,Wuxi,860,China,Asia,Eastern Asia,25.0295,115.98069,,0
 XA010,Xai Xai,Xai Xai,6890,Mozambique,Africa,Sub-Saharan Africa,-25.0445,33.640724,,0
 XI020,Xieng Khouang,Xieng Khouang,2460,Lao People's Democratic Republic,Asia,South-eastern Asia,19.4667,103.5,,0
 XI050,Xining,Xining,860,China,Asia,Eastern Asia,28.5154,103.60934,,0
-XX010,Xx Unassigned City,Buenos Aires,240,Argentina,Americas,Latin America and the Caribbean,-34.6000527891431,-58.67217703265449,,0
+XX010,Buenos Aires,Buenos Aires,240,Argentina,Americas,Latin America and the Caribbean,-34.6000527891431,-58.67217703265449,,0
 YA014,Yabelo,Yabelo,1410,Ethiopia,Africa,Sub-Saharan Africa,4.8833,38.08333,,0
 YA010,Yabus,Yabus,4020,Sudan,Africa,Northern Africa,10.55,34.283333,,0
 YA020,Yacuiba,Yacuiba,510,Bolivia,Americas,Latin America and the Caribbean,-22.038,-63.67968,,0
