@@ -1,4 +1,5 @@
 ﻿CITY_CODE,CITY_NAME,CITY_COMMON_NAME,COUNTRY_CODE,COUNTRY_NAME,REGION,SUBREGION,LATITUDE,LONGITUDE,EFFECTIVE,OBSOLETE
+CH376,Chihuahua,Chihuahua,2850,Mexico,Americas,Latin America and the Caribbean,28.5000001,-106.0000001,,0
 AA890,Aachen,Aachen,5250,Germany,Europe,Western Europe,50.7767,6.083611111,,0
 AA337,Aathbiskot,Aathbiskot,2970,Nepal,Asia,Southern Asia,28.8,82.39,,0
 AB010,Aba,Aba,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,3.8621,30.232026,2021,0
@@ -4358,11 +4359,10 @@ PA010,Panya Gor,Panyagor,4021,South Sudan,Africa,Sub-Saharan Africa,7.1657,31.40
 PH020,Phnom Penh,Phnom Penh,660,Cambodia,Asia,South-eastern Asia,11.5765,104.916345,2020,1
 RA070,Ratchabury,Ratchaburi,4200,Thailand,Asia,South-eastern Asia,13.5833,99.53333,,1
 4022J,Tawilla,Tawilla,4020,Sudan,Africa,Northern Africa,13.5219,24.859826,2021,1
-0,Unassigned City,Unassigned City,0,,Asia,Western Asia,,,,1
 AS863,Assis Brasil,Assis Brasil,540,Brazil,Americas,Latin America and the Caribbean,-10.9409203,-69.5672108,,0
 CH489,Chalkida,Chalkida,1650,Greece,Europe,Southern Europe,38.4623664,23.5946877,,0
 CO837,Corfu,Corfu,1650,Greece,Europe,Southern Europe,39.591337,19.8596189,,0
 FL570,Floriana,Floriana,2790,Malta,Europe,Southern Europe,35.8929838,14.5052716,,0
 KO575,Kozani,Kozani,1650,Greece,Europe,Southern Europe,40.3007259,21.7883119,,0
 LA526,Lamia,Lamia,1650,Greece,Europe,Southern Europe,38.8993832,22.433582,,0
-CH376,Chihuahua,Chihuahua,2850,Mexico,Americas,Latin America and the Caribbean,28.5000001,-106.0000001,,0
+0,Unassigned City,Unassigned City,0,,Asia,Western Asia,,,,1
