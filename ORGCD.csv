@@ -1,114 +1,53 @@
-ENTITY,ORG_LONG_NAME,ORG_CODE,ORG_REPORTING_NAME
-ACNUR,(spanish for) UNHCR,ACNU,ACNUR
-ADB,Asian Development Bank,ADB,ADB
-UNAIDS,The Joint United Nations Programme on HIV/AIDS,AIDS,UNAIDS
-APCTT,Asian and Pacific Centre for Transfer of Technology,APCT,UN
-APOC,African Programme for Onchocerciasis Control (staff administered by WHO; relationship to WHO analogous to UNAIDS),APOC,APOC
-CAREC,Caribbean Epidemiology Centre,CARE,PAHO
-UNSCEB,United Nations System Chief Executives Board for Coordination,CEB,CEB
-UNOCHA,?United Nations Office for the Coordination,CHA,UN
-UNOHCHR,UN High Commissioner for Human Rights,CHR,UN
-DPA,Department of Political Affairs,DPA,UN
-UNDPI,UNITED NATIONS DEPARTMENT OF PUBLIC INFORMATION,DPI,UN
-EBRD,European Bank for Reconstruction and Development,EBRD,EBRD
-ECLAC,Economic Commission for Latin America and the Caribbean,ECLA,UN
-ESCAP,Economic and Social Commission for Asia and the Pacific,ESCA,UN
-FAO,Food and Agriculture Organization of the United Nations,FAO,FAO
-UNFCCC, UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE,FCC,UNFCCC
-UNHCHR,United Nations High Commissioner for Human Rights,HCHR,UN
-UNHCR,United Nations High Commissioner for Refugees,HCR,UNHCR
-HRFOC,Human Rights Field Operation in the DRC (Democratic Republic of Congo ),HRFO,UN
-IAEA,International Atomic Energy Agency,IAEA,IAEA
-IBRD,International Bank for Reconstruction and Development,IBRD,World Bank
-ICAO,International Civil Aviation Organization,ICAO,ICAO
-ICAT,International Training Center of ILO,ICAT,ITCILO
-ICCC,International Criminal Court,ICCC,ICCC
-UNICEF,United Nations Children's Fund,ICEF,UNICEF
-ICJ,International Court of Justice,ICJ,ICJ
-ICRISAT,International Crops Research Institute for the Semi-Arid Tropics,ICRI,World Bank
-ICSC,International Civil Service Commission,ICSC,ICSC
-UNICTR,United Nations International Criminal Tribunal for Rwanda,ICTR,UN
-UNICC,United Nations International Computing Center,ICC,UNICC
-UNICTY,United Nations International Criminal Tribunal for the Former Yugoslavia,ICTY,UN
-IFAD,International Fund for Agricultural Development,IFAD,IFAD
-IFC,International Finance Corporation,IFC,World Bank
-UNIFEM,The United Nations Development Fund for Women,IFEM,UNDP
-UNIFIL,UNITED NATIONS INTERIM FORCE IN LEBANON,IFIL,Peacekeeping
-IFORD,Institute for Training and Demographic Research,IFOR,UN
-Internation Land Coalition,Internation Land Coalition,ILC,IFAD
-ILO,International Labour Organization,ILO,ILO
-IMF,International Monetary Fund,IMF,IMF
-IMO,International Maritime Organisation,IMO,IMO
-INSTRAW,International Research and Training Institute for the Advancement of Women,INST,UN
-IOM,International Organization for Migration,IOM,IOM
-IRMCT,International Residual Mechanism for Criminal Tribunals,IRM,UN
-ITC,International Trade Centre,ITC,ITC
-ITU,International Telecommunication Union,ITU,ITU
-JIU,Joint Inspection Unit of the United Nations System,JIU,JIU
-JSPF,Joint Staff Pension Fund,JSPF,UNJSPF
-UNMIBH,United Nations Mission in Bosnia and Herzegovina,MIBH,Peacekeeping
-UNMIK,United Nations Interim Administration Mission in Kosovo,MIK,Peacekeeping
-MINUGUA,UNITED NATIONS VERIFICATION MISSION IN GUATEMALA,MINU,Peacekeeping
-MONUC,United Nations Mission in the Democratic Republic of Congo,MONU,Peacekeeping
-O.A.C.I.,ICAO ?,O.A.,O.A.C.I.
-OCHA,?UN Office for the Coordination of Humanitarian Affairs,OCHA,UN
-ODCCP,Office for Drug Control and Crime Prevention,ODCC,UN
-UNMOGIP,United Nations Military Observer Group in India and Pakistan,OGIP,Peacekeeping
-OHCHR,UN High Commissioner for Human Rights,OHCH,UN
-OPRSG,Office of the Personal Representative of the Secretary-General for Southern Lebanon,OPRS,UN
-UNMOVIC,United Nations Monitoring; Verification and Inspection Commission,OVIC,Peacekeeping
-PAHO,Pan American Health Organization,PAHO,PAHO
-RRDP,Rehabilitation; Reconstruction and Development Programme,RRDP,UNDP
-UNRWA,United Nations Relief and Works Agency for Palestine Refugees in the Near East,RWA,UNRWA
-SRDC,Subregional Development Centre,SRDC,UN
-UNSSC,United Nations System Staff College,SSC,UNSSC
-UNITAID,UNITAID (staff administered by WHO; independent funding & governance),UNITAID,WHO
-UN,United Nations,UN,UN
-UNCC,United Nations Compensation Commission,UNCC,UN
-UNCDF,United Nations Capital Development Fund,UNCD,UNDP
-UNCHS,UN-HABITAT - United Nations Human Settlements Programme ??,UNCH,UN
-UNCTAD,United Nations Conference on Trade and Development,UNCT,UN
-UNDCP,The United Nations Office on Drug and Crime (UNODC),UNDC,UN
-UNDESA,UN's Department of Economic and Social Affairs,UNDE,UN
-UNDOF,United Nations Disengagement Observer Force,UNDO,Peacekeeping
-UNDP,United Nations Development Programme,UNDP,UNDP
-UNECA,United Nations Economic Commission for Africa,UNEC,UN
-UNEP,United Nations Environment Programme,UNEP,UNEP
-UNESCO,United Nations Educational Scientific and Cultural Organization,UNES,UNESCO
-UNFICYP,United Nations Peacekeeping Force in Cyprus,UNFI,Peacekeeping
-UNFPA,United Nations Population Fund,UNFP,UNFPA
-UNFZI,?,UNFZ,UN
-UNIC,United Nations Information Centre,UNIC,UN
-UNIDO,United Nations Industrial Development Organization (UNIDO),UNID,UNIDO
-UNIKOM,UN Iraq-Kuwait Observation Mission,UNIK,Peacekeeping
-UNITAR,United Nations Institute for Training and Research,UNIT,UNITAR
-Unattributed,Unattributed,UNKN,Unattributed
-UNODCCP,United Nations Office for Drug Control and Crime Prevention,UNOD,UN
-UNOG,United Nations Office in Geneva,UNOG,UN
-UNOCHI,Humanitarian Information Center for Iraq,UNOH,UN
-UNOMIG,United Nations Observer Mission in Georgia,UNOM,Peacekeeping
-UNON,United Nations Office in Nairobi,UNON,UN
-UNOPS,United Nations Office of Project Services,UNOP,UNOPS
-UNOS,?,UNOS,UNDP
-UNOV,United Nations Office in Vienna,UNOV,UN
-UNREC,United Nations Regional Centre for Peace and Disarmament in Africa,UNRE,UN
-UNSCO,United Nations Special Coordinator in the Occupied Territories,UNSC,UN
-UNSECOORD,Office of the UN Security Coordinator,UNSE,UN
-UNSMA,UN Special Mission to Afghanistan,UNSM,UN
-UNTAET,UNITED NATIONS TRANSITIONAL ADMINISTRATION IN EAST TIMOR,UNTA,Peacekeeping
-UNTOP,United Nations Tajikistan Office of Peace-building,UNTO,UN
-UNTSO,United Nations Truce Supervision Organization,UNTS,Peacekeeping
-UNU,United Nations University,UNU,UNU
-UNV,United Nations Volunteers,UNV,UNDP
-UNWOMEN,UNWOMEN,UNW,UN Women
-UPU,Universal Postal Union,UPU,UPU
-WORLD BANK,WORLD BANK,WB,World Bank
-WFP,United Nations World Food Programme,WFP,WFP
-WHO,World Health Organization,WHO,WHO
-WIPO,World Intellectual Property Organization,WIPO,WIPO
-WMO,World Meteorological Organization,WMO,WMO
-WTO (trade),World Trade Organization,WTO,WTO
-UNWTO,World Tourism Organization,WTRO,UN Tourism
-CTBTO,Comprehensive Nuclear-Test-Ban Treaty Organization,CTBTO,CTBTO
-ITLOS,International Tribunal For The Law Of The Sea,ITLOS,ITLOS
-ISA,International Seabed Authority,ISA,ISA
+ORG_CODE,ORG_NAME,ORG_LONG_NAME,ORG_REPORTING_NAME,CEB_MEMBER,OBSOLETE,SUCCESSOR_CODE,NOTES,SUCCESSOR_NAME
+ADB,ADB,Asian Development Bank,ADB,0,0,,not a CEB member; observer in the HR Network,
+AIDS,UNAIDS,Joint United Nations Programme on HIV/AIDS,UNAIDS,0,0,,,
+CEB,CEB,United Nations System Chief Executives Board for Coordination (secretariat),CEB,0,0,,"arrives in the UN Secretariat file (entity CEB), own line on the website; folded into UN in the report",
+CTBTO,CTBTO,Comprehensive Nuclear-Test-Ban Treaty Organization,CTBTO,0,0,,,
+EBRD,EBRD,European Bank for Reconstruction and Development,EBRD,0,0,,not a CEB member; observer in the HR Network,
+FAO,FAO,Food and Agriculture Organization of the United Nations,FAO,1,0,,,
+FCC,UNFCCC,United Nations Framework Convention on Climate Change,UNFCCC,0,0,,,
+HCR,UNHCR,United Nations High Commissioner for Refugees,UNHCR,1,0,,,
+IAEA,IAEA,International Atomic Energy Agency,IAEA,1,0,,,
+ICAO,ICAO,International Civil Aviation Organization,ICAO,1,0,,,
+ICAT,ITCILO,International Training Centre of the ILO,ITCILO,0,0,,,
+ICCC,ICC,International Criminal Court,ICC,0,0,,,
+ICEF,UNICEF,United Nations Children's Fund,UNICEF,1,0,,,
+ICJ,ICJ,International Court of Justice,ICJ,0,0,,,
+ICSC,ICSC,International Civil Service Commission,ICSC,0,0,,"own line on the website, not in the UN row",
+IFAD,IFAD,International Fund for Agricultural Development,IFAD,1,0,,,
+ILO,ILO,International Labour Organization,ILO,1,0,,,
+IMF,IMF,International Monetary Fund,IMF,1,0,,,
+IMO,IMO,International Maritime Organization,IMO,1,0,,,
+IOM,IOM,International Organization for Migration,IOM,1,0,,,
+ISA,ISA,International Seabed Authority,ISA,0,0,,,
+ITC,ITC,International Trade Centre,ITC,0,0,,,
+ITLOS,ITLOS,International Tribunal for the Law of the Sea,ITLOS,0,0,,,
+ITU,ITU,International Telecommunication Union,ITU,1,0,,,
+JIU,JIU,Joint Inspection Unit of the United Nations System,JIU,0,0,,"own line on the website, not in the UN row; folded into UN in the report",
+JSPF,UNJSPF,United Nations Joint Staff Pension Fund,UNJSPF,0,0,,"arrives in the UN Secretariat file (entity UNSPF), own line on the website",
+OPCW,OPCW,Organisation for the Prohibition of Chemical Weapons,OPCW,0,0,,not a CEB member; observer in the HR Network,
+PAHO,PAHO,Pan American Health Organization,PAHO,0,0,,,
+RWA,UNRWA,United Nations Relief and Works Agency for Palestine Refugees in the Near East,UNRWA,1,0,,,
+SSC,UNSSC,United Nations System Staff College,UNSSC,0,0,,,
+UN,UN,United Nations Secretariat,UN,1,0,,,
+UNDP,UNDP,United Nations Development Programme,UNDP,1,0,,,
+UNES,UNESCO,"United Nations Educational, Scientific and Cultural Organization",UNESCO,1,0,,,
+UNFP,UNFPA,United Nations Population Fund,UNFPA,1,0,,,
+UNICC,UNICC,United Nations International Computing Centre,UNICC,0,0,,,
+UNID,UNIDO,United Nations Industrial Development Organization,UNIDO,1,0,,,
+UNIT,UNITAR,United Nations Institute for Training and Research,UNITAR,0,0,,,
+UNOP,UNOPS,United Nations Office for Project Services,UNOPS,1,0,,,
+UNU,UNU,United Nations University,UNU,0,0,,,
+UNW,UN Women,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women),UN Women,1,0,,,
+UPU,UPU,Universal Postal Union,UPU,1,0,,,
+WB,World Bank,World Bank Group,World Bank,1,0,,,
+WFP,WFP,World Food Programme,WFP,1,0,,,
+WHO,WHO,World Health Organization,WHO,1,0,,,
+WIPO,WIPO,World Intellectual Property Organization,WIPO,1,0,,,
+WMO,WMO,World Meteorological Organization,WMO,1,0,,,
+WTO,WTO,World Trade Organization,WTO,1,0,,,
+WTRO,UN Tourism,World Tourism Organization (UN Tourism),UN Tourism,1,0,,UNWTO until 2023,
+ACNU,ACNUR,Alto Comisionado de las Naciones Unidas para los Refugiados (Spanish name of UNHCR),UNHCR,0,1,HCR,Spanish name of UNHCR,UNHCR
+ICC,UNICC,United Nations International Computing Centre (code until 2026),UNICC,0,1,UNICC,code replaced by UNICC in 2026,UNICC
+O.A.,O.A.C.I.,Organisation de l'aviation civile internationale (French/Spanish acronym of ICAO),ICAO,0,1,ICAO,French/Spanish acronym of ICAO,ICAO
+UNKN,Unattributed,Unattributed (placeholder for rows without an organization),Unattributed,0,1,,"placeholder, not an organization",
