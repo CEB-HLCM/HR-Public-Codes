@@ -1,8 +1,8 @@
-CODE,NAME
-1,Single
+﻿CODE,NAME
+6,Common Law
+5,Divorced
 2,Married
 3,Separated
-4,Widowed
-5,Divorced
-6,Common Law
+1,Single
 7,Unknown
+4,Widowed
