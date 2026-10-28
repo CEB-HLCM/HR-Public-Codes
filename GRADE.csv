@@ -83,4 +83,5 @@ Translator Level 5,TR5,Other,General Service,General Service (Other grades),11,0
 Undefined Professional Grade,P-O,P-O,International Professional,International Professionals (Other grades),15,0,,
 Under Secretary-General ,USG,UG,International Professional,International Professionals (High-level),3,0,,
 Ungraded (i.e. all levels above D-2),UG,UG,International Professional,International Professionals (High-level),5,0,,
+General Service (level not given),G,Other,General Service,General Service (Other grades),11,1,Other,Other
 Undefined Professional Grade,P-0,P-O,International Professional,International Professionals (Other grades),15,1,P-O,Undefined Professional Grade
