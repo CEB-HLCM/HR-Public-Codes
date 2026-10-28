@@ -752,6 +752,7 @@ OU020,Ouesso,Ouesso,3380,Congo,Africa,Sub-Saharan Africa,1.2175,15.795,,0,,
 OW010,Owando,Owando,3380,Congo,Africa,Sub-Saharan Africa,-0.4819,15.89988,,0,,
 PO070,Pointe Noire,Pointe Noire,3380,Congo,Africa,Sub-Saharan Africa,-4.7975,11.850324,,0,,
 SI010,Sibiti,Sibiti,3380,Congo,Africa,Sub-Saharan Africa,-3.6819,13.34985,,0,,
+RA020,Rarotonga,Rarotonga,6790,Cook Islands,Oceania,Polynesia,-21.2347,-159.775,2026,0,,
 CA050,Canas,Canas,1020,Costa Rica,Americas,Latin America and the Caribbean,10.431,-85.09825,,0,,
 CI321,Ciudad Neily,Ciudad Neily,1020,Costa Rica,Americas,Latin America and the Caribbean,8.648997,-82.9436183,,0,,
 LI010,Liberia,Liberia,1020,Costa Rica,Americas,Latin America and the Caribbean,10.6334,-85.443335,,0,,
@@ -2220,6 +2221,7 @@ NA015,Nalayh,Nalayh,2880,Mongolia,Asia,Eastern Asia,47.78729643,107.3924262,,0,,
 UL228,Ulaanbaatar,Ulaanbaatar,2880,Mongolia,Asia,Eastern Asia,47.9167,106.9166667,,0,,
 ZA050,Zamar Somon,Zaamar,2880,Mongolia,Asia,Eastern Asia,48.21558255,104.7740574,,0,,
 BA320,Bar,Bar,5752,Montenegro,Europe,Southern Europe,42.1667,19.16667,,0,,
+NI045,Niksic,Niksic,5752,Montenegro,Europe,Southern Europe,42.7731,18.9445,2026,0,,
 PO030,Podgorica,Podgorica,5752,Montenegro,Europe,Southern Europe,42.4411,19.263604,2019,0,,
 PL010,Plymouth,Plymouth,6200,Montserrat,Americas,Latin America and the Caribbean,16.7053,-62.213056,,0,,
 RE010,Reids Hill,Reids Hill,6200,Montserrat,Americas,Latin America and the Caribbean,16.2053,-62.713056,,0,,
@@ -3038,12 +3040,10 @@ LE040,Leposavic,Leposavic,4950,Serbia,Europe,Southern Europe,43.1039,20.80278,,0
 LO095,Loznica,Loznica,4950,Serbia,Europe,Southern Europe,44.5312,19.24267,,0,,
 MA110,Malisheve,Malisheve,4950,Serbia,Europe,Southern Europe,42.4822,20.74583,,0,,
 MI010,Mitrovica,Mitrovica,4950,Serbia,Europe,Southern Europe,44.9674,19.59314,2020,0,,
-NI045,Niksic,Niksic,4950,Serbia,Europe,Southern Europe,44.0992,21.00194,,0,,
 NI300,Nis,Nis,4950,Serbia,Europe,Southern Europe,43.0251,20.59824,,0,,
 NO082,Novi Sad,Novi Sad,4950,Serbia,Europe,Southern Europe,45.2517,19.83694,,0,,
 OR020,Orahovac,Orahovac,4950,Serbia,Europe,Southern Europe,42.3994,20.65472,,0,,
 PC600,Pec,Pec,4950,Serbia,Europe,Southern Europe,42.6591,20.28828,2020,0,,
-PO236,Pogdgorica,Podgorica,4950,Serbia,Europe,Southern Europe,43.7754,19.68229,,0,,
 PR010,Presevo,Presevo,4950,Serbia,Europe,Southern Europe,42.3092,21.64917,,0,,
 PR020,Pristina,Pristina,4950,Serbia,Europe,Southern Europe,42.6727,21.16688,2020,0,,
 PZ700,Prizren,Prizren,4950,Serbia,Europe,Southern Europe,42.2139,20.73972,,0,,
@@ -4011,7 +4011,7 @@ MA040,Mai Ha,Mai Ha,5690,Viet Nam,Asia,South-eastern Asia,21.7067,106.61199,,0,,
 MO010,Moc Chau,Moc Chau,5690,Viet Nam,Asia,South-eastern Asia,20.8661,104.7245,,0,,
 NH005,Nha Ho,Nha Ho,5690,Viet Nam,Asia,South-eastern Asia,11.6333,108.9,,0,,
 NH010,Nha Trang,Nha Trang,5690,Viet Nam,Asia,South-eastern Asia,12.2451,109.19432,,0,,
-QU837,"Quang Ninh City","Quang Ninh City",5690,"Viet Nam",Asia,South-eastern Asia,21.1718046,107.2012742,"","0",,
+QU837,Quang Ninh City,Quang Ninh City,5690,Viet Nam,Asia,South-eastern Asia,21.1718046,107.2012742,,0,,
 QU030,Qui Nhon,Qui Nhon,5690,Viet Nam,Asia,South-eastern Asia,10.35,105.63333,,0,,
 VI030,Vinh,Vinh,5690,Viet Nam,Asia,South-eastern Asia,9.8,106.3,,0,,
 AL010,El Ayun,El Ayun,6910,Western Sahara,Africa,Northern Africa,27.1622,-13.20315,,0,,
@@ -4120,10 +4120,12 @@ ME349,Meymaneh,Meymaneh,60,Afghanistan,Asia,Southern Asia,35.93,64.77,,1,MA330_6
 TA050,Taloquan,Taloqan,60,Afghanistan,Asia,Southern Asia,36.736,69.53451,,1,TA010_60,"Taloqan, Afghanistan"
 006P,Zabul,Zabul,60,Afghanistan,Asia,Southern Asia,32.25,67.25,,1,ZA752_60,"Zabul, Afghanistan"
 0,Other,Other,90,Albania,Europe,Southern Europe,41.3275,19.81889,,1,,
+ME070,Menongue,Menongue,6810,Angola,Africa,Sub-Saharan Africa,-17.4167,18.46667,,1,ME055_6810,"Menongue, Angola"
 0,Other,Other,6810,Angola,Africa,Sub-Saharan Africa,-8.8368,13.23432,,1,,
 XX010,Buenos Aires,Buenos Aires,240,Argentina,Americas,Latin America and the Caribbean,-34.60005279,-58.67217703,,1,BU040_240,"Buenos Aires, Argentina"
 0,Other,Other,270,Australia,Oceania,Australia and New Zealand,-35.2835,149.12807,,1,,
 0,Other,Other,300,Austria,Europe,Western Europe,47.6,13.783333,,1,,
+BA051,BAKU,Baku,1092,Azerbaijan,Asia,Western Asia,40.3832,49.845421,,1,BA040_1092,"Baku, Azerbaijan"
 CH012,Chapi Nawabgani,Nawabganj,5070,Bangladesh,Asia,Southern Asia,24.5902,88.27444,,1,NA060_5070,"Nawabganj, Bangladesh"
 0,Other,Other,5070,Bangladesh,Asia,Southern Asia,23.7104,90.40744,,1,,
 SI010,Sirajgong,Sirajganj,5070,Bangladesh,Asia,Southern Asia,24.4577,89.70802,,1,SI020_5070,"Sirajganj, Bangladesh"
@@ -4142,9 +4144,13 @@ LA070,Las Palmas,Las Palmas,1010,Canary Islands,Europe,Southern Europe,28.5823,-
 PA050,Paoua,Paoua,750,Central African Republic,Africa,Sub-Saharan Africa,7.2452,16.434171,2021,1,PA111_750,"Paoua, Central African Republic"
 AD020,AdrT,AdrT,810,Chad,Africa,Sub-Saharan Africa,,,,1,,
 GH030,Ghz Beida,Goz Beida,810,Chad,Africa,Sub-Saharan Africa,12.2252,21.410782,,1,GO100_810,"Goz Beida, Chad"
+GU070,Guerada,Guereda,810,Chad,Africa,Sub-Saharan Africa,14.5095,22.085792,,1,GU090_810,"Guereda, Chad"
+N'060,N'djamena,Ndjamena,810,Chad,Africa,Sub-Saharan Africa,12.1191,15.05027,,1,ND060_810,"Ndjamena, Chad"
 0,Other,Other,810,Chad,Africa,Sub-Saharan Africa,15.4667,19.4,,1,,
 AP030,Aparta Do,Apartado,930,Colombia,Americas,Latin America and the Caribbean,7.8849,-76.622727,,1,AP050_930,"Apartado, Colombia"
+BA210,Barrancabermeja,Barrancabermeja,930,Colombia,Americas,Latin America and the Caribbean,7.0673,-73.852558,,1,BA120_930,"Barrancabermeja, Colombia"
 0,Other,Other,930,Colombia,Americas,Latin America and the Caribbean,4.6097,-74.08175,,1,,
+QU060,Quibdo,Quibdo,930,Colombia,Americas,Latin America and the Caribbean,5.6947,-76.66111,,1,QU050_930,"Quibdo, Colombia"
 093F,Tumaco,Tumaco,930,Colombia,Americas,Latin America and the Caribbean,1.8078,-78.770598,2019,1,TU952_930,"Tumaco, Colombia"
 LO010,Loubomo,Loubomo,3380,Congo,Africa,Sub-Saharan Africa,-4.1983,12.66664,,1,DO010_3380,"Dolisie, Congo"
 TS010,Tshikapa,Tshikapa,3380,Congo,Africa,Sub-Saharan Africa,-6.4162,20.79995,2021,1,TS010_990,"Tshikapa, Democratic Republic of the Congo"
@@ -4153,6 +4159,7 @@ TS010,Tshikapa,Tshikapa,3380,Congo,Africa,Sub-Saharan Africa,-6.4162,20.79995,20
 DO010,Doukoue,Doukoue,2250,Côte d’Ivoire,Africa,Sub-Saharan Africa,6.747676288,-7.361483483,,1,DU010_2250,"Duékoué, Côte d’Ivoire"
 0,Other,Other,2250,Côte d’Ivoire,Africa,Sub-Saharan Africa,6.8206,-5.27674,,1,,
 225L,Tai,Tai,2250,Côte d’Ivoire,Africa,Sub-Saharan Africa,5.8709,-7.455046,,1,TA231_2250,"Tai, Côte d’Ivoire"
+BA030,Bandudu,Bandundu,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,-3.3169,17.38063,,1,BA020_990,"Bandundu, Democratic Republic of the Congo"
 099K,Mahagi,Mahagi,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,2.2999,30.99181,,1,MA363_990,"Mahagi, Democratic Republic of the Congo"
 099NN,Manono,Manono,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,-7.2986,27.398937,,1,MA702_990,"Manono, Democratic Republic of the Congo"
 0,Other,Other,990,Democratic Republic of the Congo,Africa,Sub-Saharan Africa,-4.3276,15.31357,,1,,
@@ -4173,7 +4180,10 @@ BO090,Bombay,Bombay,2040,India,Asia,Southern Asia,18.9387,72.835236,,1,MU090_204
 CA100,Calcutta,Calcutta,2040,India,Asia,Southern Asia,22.5626,88.36304,2021,1,KO030_2040,"Kolkata, India"
 MA200,Madras,Madras,2040,India,Asia,Southern Asia,11,78.33333,,1,CH009_2040,"Chennai, India"
 PO010,Poona,Poona,2040,India,Asia,Southern Asia,18.5196,73.85535,,1,PU010_2040,"Pune, India"
+DI300,Dili,Dili,2070,Indonesia,Asia,South-eastern Asia,-8.5586,125.573602,,1,DI010_8100,"Dili, Timor-Leste"
+GU090,Gunungsitoli,Gunung Sitoli,2070,Indonesia,Asia,South-eastern Asia,1.2833,97.6,,1,GU010_2070,"Gunung Sitoli, Indonesia"
 0,Other,Other,2070,Indonesia,Asia,South-eastern Asia,-6.2146,106.84513,,1,,
+UJ190,Ujung Pandang,Makassar,2070,Indonesia,Asia,South-eastern Asia,-5.1343,119.412421,,1,MA040_2070,"Makassar, Indonesia"
 BA043,Bakhtaran,Bakhtaran,2100,Iran (Islamic Republic of),Asia,Southern Asia,34.4167,46.75,,1,KE071_2100,"Kermanshah, Iran (Islamic Republic of)"
 UR080,Urumiyeh,Urumiyeh,2100,Iran (Islamic Republic of),Asia,Southern Asia,37.5527,45.07605,,1,OR081_2100,"Orumiyeh, Iran (Islamic Republic of)"
 AL576,Al Basrah,Al Basrah,2130,Iraq,Asia,Western Asia,29.6817,48.80916667,,1,BA070_2130,"Basrah, Iraq"
@@ -4189,14 +4199,20 @@ NA580,Nagano,Nagano,2310,Japan,Asia,Eastern Asia,36.6486,138.1941944,,1,NA654_23
 0,Other,Other,2310,Japan,Asia,Eastern Asia,35.6895,139.69171,,1,,
 YO543,Yokohoma,Yokohoma,2310,Japan,Asia,Eastern Asia,35.4333,139.65,,1,YO691_2310,"Yokohama, Japan"
 YO040,Yokoyama,Yokoyama,2310,Japan,Asia,Eastern Asia,35.44327955,139.6338707,,1,YO691_2310,"Yokohama, Japan"
+AL050,Alma Ata,Almaty,4319,Kazakhstan,Asia,Central Asia,43.2567,76.928603,,1,AL055_4319,"Almaty, Kazakhstan"
 AS020,Astana,Nur-Sultan,4319,Kazakhstan,Asia,Central Asia,51.1553,71.433086,,1,AS539_4319,"Astana, Kazakhstan"
 NU397,Nur-Sultan,Nur-Sultan,4319,Kazakhstan,Asia,Central Asia,51.1553,71.433086,,1,AS539_4319,"Astana, Kazakhstan"
 AM005,Amolen,Amolen,2400,Kenya,Africa,Sub-Saharan Africa,,,,1,,
 0,Other,Other,2400,Kenya,Africa,Sub-Saharan Africa,-1.2833,36.81667,,1,,
 GN011,Gnjilane,Gnjilane,8300,Kosovo (UN administered province of Serbia),Europe,Southern Europe,42.4608,21.46716,,1,GJ110_8300,"Gjilan, Kosovo (UN administered province of Serbia)"
 KM011,Kosovska Mitrovica,Kosovska Mitrovica,8300,Kosovo (UN administered province of Serbia),Europe,Southern Europe,42.8957,20.876,,1,MI010_8300,"Mitrovica, Kosovo (UN administered province of Serbia)"
+KM012,Kosovska Mitrovica,Mitrovica,8300,Kosovo (UN administered province of Serbia),Europe,Southern Europe,42.8957,20.876,,1,MI010_8300,"Mitrovica, Kosovo (UN administered province of Serbia)"
 PC600,Pec,Pec,8300,Kosovo (UN administered province of Serbia),Europe,Southern Europe,42.6632,20.30072,2020,1,PE010_8300,"Pejë, Kosovo (UN administered province of Serbia)"
+PC601,Pec,Pejë,8300,Kosovo (UN administered province of Serbia),Europe,Southern Europe,42.6632,20.30072,,1,PE010_8300,"Pejë, Kosovo (UN administered province of Serbia)"
 PE030,Peja,Peja,8300,Kosovo (UN administered province of Serbia),Europe,Southern Europe,42.6591,20.28828,2020,1,PE010_8300,"Pejë, Kosovo (UN administered province of Serbia)"
+PR021,Pristina,Pristina,8300,Kosovo (UN administered province of Serbia),Europe,Southern Europe,42.6657,21.1655,,1,PR020_8300,"Pristina, Kosovo (UN administered province of Serbia)"
+PZ701,Prizren,Prizren,8300,Kosovo (UN administered province of Serbia),Europe,Southern Europe,42.2157,20.74232,,1,PZ700_8300,"Prizren, Kosovo (UN administered province of Serbia)"
+ZV011,Zvecan,Zvecan,8300,Kosovo (UN administered province of Serbia),Europe,Southern Europe,42.9089,20.840172,,1,ZU015_8300,"Zvecan, Kosovo (UN administered province of Serbia)"
 IN020,Inchon,Inchon,2460,Lao People's Democratic Republic,Asia,South-eastern Asia,37.4536,126.73167,,1,IN020_5670,"Incheon, Republic of Korea"
 SA004,Saravane,Saravane,2460,Lao People's Democratic Republic,Asia,South-eastern Asia,15.75,106.25,,1,SA010_2460,"Salavan, Lao People's Democratic Republic"
 CH470,Chtoura,Chtoura,2490,Lebanon,Asia,Western Asia,33.8151,35.853264,,1,CH020_2490,"Chtaura, Lebanon"
@@ -4222,6 +4238,8 @@ PO020,Podjorica,Podgorica,5752,Montenegro,Europe,Southern Europe,42.4411,19.2636
 KY010,Kyaukpadaung,Kyaukpadaung,600,Myanmar,Asia,South-eastern Asia,20.8416,95.1267,,1,KY952_600,"Kyaukpadaung, Myanmar"
 MY010,Myeik,Myeik,600,Myanmar,Asia,South-eastern Asia,12.4395,98.60028,,1,ME413_600,"Mergui, Myanmar"
 0,Other,Other,600,Myanmar,Asia,South-eastern Asia,21.1,95.45,,1,,
+PK100,Pang Kham,Panghsang,600,Myanmar,Asia,South-eastern Asia,22.1771,99.169786,,1,PA030_600,"Pang Kham, Myanmar"
+RA020,Yangon,Yangon,600,Myanmar,Asia,South-eastern Asia,16.8053,96.156104,,1,YA050_600,"Yangon, Myanmar"
 DH018,Dhangadhi,Dhangadhi,2970,Nepal,Asia,Southern Asia,28.68333333,80.6,,1,DH010_2970,"Dhangadi, Nepal"
 0,Other,Other,2970,Nepal,Asia,Southern Asia,28.25,83.916667,,1,,
 SI050,Sindhuligadhi,Sindhuligadhi,2970,Nepal,Asia,Southern Asia,27.2832,85.95482,,1,SI030_2970,"Sindhuli, Nepal"
@@ -4266,10 +4284,14 @@ AN010,Anguilla,Anguilla,6270,Saint Kitts and Nevis,Americas,Latin America and th
 TH010,The Valley,The Valley,6270,Saint Kitts and Nevis,Americas,Latin America and the Caribbean,18.217,-63.05783,,1,TH343_210,"The Valley, Anguilla"
 ST060,St. Louis,St. Louis,3810,Senegal,Africa,Sub-Saharan Africa,16.0189,-16.493,,1,SA631_3810,"Saint-Louis, Senegal"
 BA320,Bar,Bar,4950,Serbia,Europe,Southern Europe,42.1,19.1,,1,BA320_5752,"Bar, Montenegro"
+NI045,Niksic,Niksic,4950,Serbia,Europe,Southern Europe,42.7731,18.9445,,1,NI045_5752,"Niksic, Montenegro"
 0,Other,Other,4950,Serbia,Europe,Southern Europe,44.804,20.46513,,1,,
+PO236,Pogdgorica,Podgorica,4950,Serbia,Europe,Southern Europe,42.4411,19.263604,,1,PO030_5752,"Podgorica, Montenegro"
+BO000,Bo,Bo,3900,Sierra Leone,Africa,Sub-Saharan Africa,7.2887,-11.52307,,1,BO100_3900,"Bo, Sierra Leone"
 BE012,Belet Weyne,Belet Weyne,3920,Somalia,Africa,Sub-Saharan Africa,4.7358,45.20361,2021,1,BE687_3920,"Belet Uen, Somalia"
 BR010,Brava,Brava,3920,Somalia,Africa,Sub-Saharan Africa,1.1132,44.0297,,1,BA050_3920,"Baraawe, Somalia"
 GA578,Galkayo,Galkayo,3920,Somalia,Africa,Sub-Saharan Africa,6.7697,47.430833,,1,GA050_3920,"Galkayo, Somalia"
+GA500,Garowe,Garowe,3920,Somalia,Africa,Sub-Saharan Africa,8.4054,48.48446,,1,GA040_3920,"Garowe, Somalia"
 LU010,Lugh,Lugh,3920,Somalia,Africa,Sub-Saharan Africa,3.8032,42.54417,,1,LU048_3920,"Luuq, Somalia"
 GE022,Luuq,Luuq,3920,Somalia,Africa,Sub-Saharan Africa,3.8032,42.54417,,1,LU048_3920,"Luuq, Somalia"
 0,Other,Other,3920,Somalia,Africa,Sub-Saharan Africa,2.0371,45.34375,,1,,
@@ -4288,6 +4310,7 @@ AZ010,Ziouani Camp,Ziouani Camp,4321,State of Palestine,Asia,Western Asia,33.108
 AB040,Abyei,Abyei,4020,Sudan,Africa,Northern Africa,9.5968,28.439793,2021,1,AB010_4020,"Abyei Town, Sudan"
 AK659,Akon,Akon,4020,Sudan,Africa,Northern Africa,7.4093,29.06797,,1,AK659_4021,"Akon, South Sudan"
 AR529,Arne,Arne,4020,Sudan,Africa,Northern Africa,14.3,31.5,,1,,
+AW030,Aweil,Aweil,4020,Sudan,Africa,Northern Africa,8.7649,27.394682,,1,AW010_4021,"Aweil, South Sudan"
 BE773,Bentiu,Bentiu,4020,Sudan,Africa,Northern Africa,9.2333,29.83333,2021,1,BE773_4021,"Bentiu, South Sudan"
 BI120,Bilinyan,Bilinyan,4020,Sudan,Africa,Northern Africa,,,,1,BI120_4021,"Bilnyang, South Sudan"
 BO010,Bor,Bor,4020,Sudan,Africa,Northern Africa,6.2127,31.564322,2021,1,BO010_4021,"Bor, South Sudan"
@@ -4324,6 +4347,7 @@ NI010,Nimule,Nimule,4020,Sudan,Africa,Northern Africa,3.6167,32.05,,1,NI010_4021
 NY030,Nyilwak,Nyilwak,4020,Sudan,Africa,Northern Africa,9.467,31.354,,1,NY030_4021,"Nyilwak, South Sudan"
 0,Other,Other,4020,Sudan,Africa,Northern Africa,15.5518,32.53241,,1,,
 PA020,Pagak,Pagak,4020,Sudan,Africa,Northern Africa,8.5037,34.003711,,1,PA020_4021,"Pagak, South Sudan"
+PA010,Panya Gor,Panyagor,4020,Sudan,Africa,Northern Africa,7.1703,31.40858,,1,PA558_4021,"Panyagor, South Sudan"
 PI010,Pibor,Pibor,4020,Sudan,Africa,Northern Africa,8.435,33.21861,2021,1,PI010_4021,"Pibor, South Sudan"
 PU060,Pulmok,Pulmok,4020,Sudan,Africa,Northern Africa,6.85,33.6,,1,PU060_4021,"Pulmok, South Sudan"
 4021G,Raja,Raja,4020,Sudan,Africa,Northern Africa,8.4658,25.679722,,1,RA946_4021,"Raja, South Sudan"
@@ -4343,6 +4367,8 @@ WE040,Western Equatoria,Western Equatoria,4020,Sudan,Africa,Northern Africa,5.5,
 WU020,Wunrok,Wunrock,4020,Sudan,Africa,Northern Africa,8.992,28.302622,,1,WU070_4021,"Wunrok, South Sudan"
 YA090,Yambio,Yambio,4020,Sudan,Africa,Northern Africa,4.5721,28.39549,2021,1,YA090_4021,"Yambio, South Sudan"
 YE010,Yei,Yei,4020,Sudan,Africa,Northern Africa,4.0947,30.679852,2021,1,YE010_4021,"Yei, South Sudan"
+ZA070,Zalengei,Zalingei,4020,Sudan,Africa,Northern Africa,12.9092,23.470574,,1,ZA010_4020,"Zalengei, Sudan"
+ZA111,Zalingei,Zalingei,4020,Sudan,Africa,Northern Africa,12.9092,23.470574,,1,ZA010_4020,"Zalengei, Sudan"
 4029L,Zam Zam,Zam Zam,4020,Sudan,Africa,Northern Africa,13.6232,25.35425,,1,ZA319_4020,"Zam Zam, Sudan"
 4145,Camp Faouar,Camp Faouar,4140,Syrian Arab Republic,Asia,Western Asia,33.1167,35.866667,,1,CA514_4140,"Camp Faouar, Syrian Arab Republic"
 0,Other,Other,4140,Syrian Arab Republic,Asia,Western Asia,33.5102,36.29128,,1,,
@@ -4355,6 +4381,7 @@ RA070,Ratchabury,Ratchaburi,4200,Thailand,Asia,South-eastern Asia,13.5833,99.533
 TR010,Trad,Trad,4200,Thailand,Asia,South-eastern Asia,12.5,102.5,,1,TR030_4200,"Trat, Thailand"
 YA257,Yangon,Yangon,4200,Thailand,Asia,South-eastern Asia,16.8053,96.15611,,1,YA050_600,"Yangon, Myanmar"
 BA045,Baukau,Baucau,8100,Timor-Leste,Asia,South-eastern Asia,-8.4711,126.458326,2020,1,BA050_8100,"Baucau, Timor-Leste"
+DI050,Dili,Dili,8100,Timor-Leste,Asia,South-eastern Asia,-8.5586,125.573602,,1,DI010_8100,"Dili, Timor-Leste"
 0,Other,Other,6400,Tortola,Americas,Latin America and the Caribbean,18.4269,-64.62079,,1,,
 0,Other,Other,4320,Tunisia,Africa,Northern Africa,33.3167,9.35,,1,,
 4357,Antakya,Antakya,4350,Türkiye,Asia,Western Asia,36.2066,36.15722,2021,1,AN068_4350,"Antakya, Türkiye"
@@ -4379,6 +4406,7 @@ CH008,Chapel-Hill,Chapel-Hill,4560,United States of America,Americas,Northern Am
 CL078,Cleveland,Cleveland,4560,United States of America,Americas,Northern America,41.5317,-81.581944,,1,CL327_4560,"Cleveland, United States of America"
 GU510,Guantanamo,Guantanamo,4560,United States of America,Americas,Northern America,20.1425,-75.208889,,1,,
 GU761,Guantanamo Bay,Guantanamo Bay,4560,United States of America,Americas,Northern America,19.9975,-75.142021,,1,,
+IL060,Miami,Miami,4560,United States of America,Americas,Northern America,25.7743,-80.193651,,1,MI100_4560,"Miami, United States of America"
 MI051,Minneapolis,Minneapolis,4560,United States of America,Americas,Northern America,44.9802,-93.264075,,1,MI961_4560,"Minneapolis, United States of America"
 MI771,Minneapolis,Minneapolis,4560,United States of America,Americas,Northern America,44.9802,-93.264075,,1,MI961_4560,"Minneapolis, United States of America"
 NA096,Nashville,Nashville,4560,United States of America,Americas,Northern America,36.1658,-86.78444444,,1,NA481_4560,"Nashville, United States of America"
